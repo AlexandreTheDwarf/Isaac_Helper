@@ -2785,11 +2785,11 @@
     },
     {
         "id": "561",
-        "name": "",
-        "description": "",
+        "name": "Almond Milk",
+        "description": "Quadruple la cadence de tir, avec un multiplicateur de dégâts de x0,3. Chaque larme obtient un effet aléatoire qui modifie son mouvement.",
         "unlock": "Feature coming soon",
-        "type": "",
-        "image": "./"
+        "type": "Passif",
+        "image": "./img/items/Collectible_Almond_Milk_icon.webp"
     },
     {
         "id": "563",

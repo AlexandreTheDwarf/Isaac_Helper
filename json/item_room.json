@@ -2777,11 +2777,11 @@
     },
     {
         "id": "560",
-        "name": "",
-        "description": "",
+        "name": "It Hurts",
+        "description": "Lorsqu'Isaac subit des dégâts, il libère un anneau de larmes et augmente la cadence de tir pour la salle en cours.",
         "unlock": "Feature coming soon",
-        "type": "",
-        "image": "./"
+        "type": "Passif",
+        "image": "./img/items/Collectible_It_Hurts_icon.webp"
     },
     {
         "id": "561",

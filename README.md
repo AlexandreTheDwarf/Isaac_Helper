@@ -21,15 +21,36 @@ Il est également adapté aux personnes dyslexiques, avec une police de caractè
 
 ## Contributeur
 
-[Alexandre Vandewiele](https://github.com/AlexandreVDW)
+[Alexandre Vandewiele](https://github.com/AlexandreTheDwarf)
 
 ## Pour Suivre l'avancement : 
 
-Nombre de ligne de json encoder :
+### objets encodés :
 
-```
-21/02/2024 -> 436
-22/02/2024 -> 1015
-23/02/2024-> 2049
-26/02/2024 -> 1170
-```
+- [x] Treasure Room
+- [x] Curse Room
+- [x] Secret Room
+- [ ] Shop Room
+- [x] Boss Room
+- [x] Golden Chest
+- [x] Red Chest
+- [x] Devil Room
+- [x] Angel Room
+- [x] Library Room
+- [x] Planetarium Room
+- [ ] Trinkets
+
+### objets encodés avec comment les débloqués :
+
+- [ ] Treasure Room
+- [ ] Curse Room
+- [ ] Secret Room
+- [ ] Shop Room
+- [ ] Boss Room
+- [ ] Golden Chest
+- [x] Red Chest
+- [ ] Devil Room
+- [ ] Angel Room
+- [x] Library Room
+- [x] Planetarium Room
+- [ ] Trinkets

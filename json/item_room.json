@@ -3056,12 +3056,92 @@
         "image": "./img/items/Collectible_Giant_Cell_icon.webp"
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
+        "id": "661",
+        "name": "Quints",
+        "description": "Les cinq premiers ennemis tués dans une pièce font apparaître des familiers de tir stationnaires à l'endroit où ils sont morts.",
         "unlock": "Feature coming soon",
-        "type": "",
-        "image": "./"
+        "type": "Passif",
+        "image": "./img/items/Collectible_Quints_icon.webp"
+    },
+    {
+        "id": "663",
+        "name": "Tooth and Nail",
+        "description": "Isaac se transforme périodiquement en statue à pointes, devenant brièvement invulnérable et infligeant des dégâts de contact.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tooth_and_Nail_icon.webp"
+    },
+    {
+        "id": "671",
+        "name": "Candy Heart",
+        "description": "Confère à Isaac une augmentation permanente de ses statistiques chaque fois qu'il se soigne à l'aide des récupérations de Cœur rouge.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Candy_Heart_icon.webp"
+    },
+    {
+        "id": "675",
+        "name": "Cracked Orb",
+        "description": "Déverrouille les portes et révèle une salle aléatoire sur la carte lorsque Isaac subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Cracked_Orb_icon.webp"
+    },
+    {
+        "id": "676",
+        "name": "Empty Heart",
+        "description": "Si Isaac a un cœur rouge ou moins au début d'un étage, il gagne un récipient de cœur rouge vide.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Empty_Heart_icon.webp"
+    },
+    {
+        "id": "677",
+        "name": "Astral Projection",
+        "description": "Si Isaac est touché dans une salle non nettoyée, il se transforme en fantôme, lui donnant le vol et des larmes spectrales, et bloquant la prochaine attaque qu'il reçoit.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Astral_Projection_icon.webp"
+    },
+    {
+        "id": "678",
+        "name": "C Section",
+        "description": "Remplace les larmes par des fœtus qui poursuivent les ennemis et leur infligent des dégâts de contact. Chaque tir nécessite une courte charge.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_C_Section_icon.webp"
+    },
+    {
+        "id": "680",
+        "name": "Montezuma's Revenge",
+        "description": "Tout en tirant, Isaac charge un rayon diarrhéique de courte portée, semblable à Brimstone, qui tire derrière lui.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Montezumas_Revenge_icon.webp"
+    },
+    {
+        "id": "681",
+        "name": "Lil Portal",
+        "description": "Un familier qui vole vers l'avant, consommant les objets sur son chemin. Chacune d'entre elles augmentera sa taille et ses dégâts et fera apparaître une Mouche bleue. Tous les quatre pickups, il ouvre un portail qui mène à une salle inexplorée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Portal_icon.webp"
+    },
+    {
+        "id": "682",
+        "name": "Worm Friend",
+        "description": "Donne à Isaac un familier de 'fin de nerf' (les tentacules rouges)  qui sort du sol pour attraper les ennemis et leur infliger des dégâts sur la durée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Worm_Friend_icon.webp"
+    },
+    {
+        "id": "683",
+        "name": "Bone Spurs",
+        "description": "Les ennemis produisent des os flottants lorsqu'ils meurent, qui bloquent les tirs et endommagent/repoussent les ennemis qui les touchent.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bone_Spurs_icon.webp"
     },
     {
         "id": "687",
@@ -3070,6 +3150,30 @@
         "unlock": "Feature coming soon",
         "type": "Activable",
         "image": "./img/items/Collectible_Friend_Finder_icon.webp"
+    },
+    {
+        "id": "690",
+        "name": "Belly Jelly",
+        "description": "Fait rebondir les ennemis sur Isaac, leur infligeant des dégâts s'ils touchent un ennemi ou un obstacle. Il permet également à Isaac de dévier les tirs ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Belly_Jelly_icon.webp"
+    },
+    {
+        "id": "693",
+        "name": "The Swarm",
+        "description": "Donne naissance à huit mouches orbitales, qui se transforment en mouches bleues après avoir bloqué un tir. Chaque fois qu'une pièce est nettoyée, une autre mouche orbitale apparaît.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_The_Swarm_icon.webp"
+    },
+    {
+        "id": "695",
+        "name": "Bloody Gust",
+        "description": "Les 6 premières fois où Isaac subit des dégâts sur un étage donné, il gagne de la Vitesse et de la Cadence de tir pour le reste de l'étage, jusqu'à un maximum de +1,02 et +3,00, respectivement.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bloody_Gust_icon.webp"
     },
     {
         "id": "703",
@@ -3104,6 +3208,14 @@
         "image": "./img/items/Collectible_Sumptorium_icon.webp"
     },
     {
+        "id": "717",
+        "name": "Keeper's Kin",
+        "description": "Les rochers et autres obstacles font apparaître des araignées bleues avec le temps lorsqu'ils se trouvent dans une salle avec des ennemis, et font apparaître deux araignées bleues lorsqu'ils sont détruits.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Keepers_Kin_icon.webp"
+    },
+    {
         "id": "720",
         "name": "Everything Jar",
         "description": "Fait apparaître certains ramassages (clés, pièces, bombes, ...) en fonction du nombre de charges qu'il possède. S'il est entièrement chargé, a plutôt l'un des nombreux effets uniques.",
@@ -3126,6 +3238,38 @@
         "unlock": "Feature coming soon",
         "type": "Activable & Dés",
         "image": "./img/items/Collectible_Spindown_Dice_icon.webp"
+    },
+    {
+        "id": "724",
+        "name": "Hypercoagulation",
+        "description": "Après qu'Isaac ait subi des dégâts d'un ennemi ou ait donné des points de vie, Isaac lance des cœurs rouges qui disparaissent au bout de 1,5 seconde.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Hypercoagulation_icon.webp"
+    },
+    {
+        "id": "725",
+        "name": "IBS",
+        "description": "Permet à Isaac de jeter du caca, de créer un effet tampon ou de lâcher des bombes lorsqu'il se bat contre des ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_IBS_icon.webp"
+    },
+    {
+        "id": "726",
+        "name": "Hemoptysis",
+        "description": "En appuyant deux fois sur le bouton de feu, Isaac éternue du sang et inflige des dégâts aux ennemis qui se trouvent devant lui. Les ennemis affectés sont maudits et subissent plus de dégâts avec les attaques de type Brimstone.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Hemoptysis_icon.webp"
+    },
+    {
+        "id": "727",
+        "name": "Ghost Bombs",
+        "description": "+5 Bombes. Les bombes deviennent spectrales et engendrent des fantômes qui infligent des dégâts de contact aux ennemis et explosent au bout de 10 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Ghost_Bombs_icon.webp"
     },
     {
         "id": "728",

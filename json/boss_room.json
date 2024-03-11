@@ -336,6 +336,22 @@
         "image": "./img/items/Collectible_Screw_icon.webp"
     },
     {
+        "id": "327",
+        "name": "The Polaroid",
+        "description": "Si Isaac a un demi-cœur rouge ou aucun cœur rouge après avoir subi des dégâts, il gagne un bouclier qui annule tous les types de dégâts pendant 5 secondes. Permet l’entrée dans le Coffre. Permet également l’accès à la Maison.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Polaroid_icon.webp"
+    },
+    {
+        "id": "328",
+        "name": "The Negative",
+        "description": "Si le joueur a un demi-cœur rouge ou aucun cœur rouge après avoir subi des dégâts, tous les ennemis de la salle subissent des dégâts importants. Permet l’entrée dans la chambre noire. + 1 Dommage et permet également l’accès à la maison.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Negative_icon.webp"
+    },
+    {
         "id": "339",
         "name": "Safety Pin",
         "description": "Accorde un Cœur Noir, +2,5 de portée, +0,16 de vitesse de tir.",

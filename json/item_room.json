@@ -82,7 +82,7 @@
     {
         "id": "13",
         "name": "The Virus",
-        "description": "Isaac empoisonne les ennemis au contact. +0,2 vitesse.F",
+        "description": "Isaac empoisonne les ennemis au contact. +0,2 vitesse.",
         "unlock": "Feature coming soon",
         "type": "Passif & Aiguille",
         "image": "./img/items/Collectible_The_Virus_icon.webp"

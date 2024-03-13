@@ -268,8 +268,8 @@
         "name": "Mr. ME!",
         "description": "Invoque un fantôme contrôlable qui peut effectuer diverses tâches en fonction de la cible.",
         "unlock": "Feature coming soon",
-        "type": "",
-        "image": "./"
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mr._ME_icon.webp"
     },
     {
         "id": "566",

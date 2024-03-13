@@ -1,5 +1,277 @@
 [
     {
+        "id": "33",
+        "name": "The Bible",
+        "description": "Lors de son utilisation, Isaac obtient la capacité de voler pour la pièce actuelle. Tue instantanément Maman, le Cœur de Maman et le bébé lorsqu'il est activé, mais tue Isaac lorsqu'il est utilisé sur Satan.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Bible.webp"
+    },
+    {
+        "id": "85",
+        "name": "Deck of Cards",
+        "description": "Donne à Isaac une carte aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Deck_of_Cards_icon.webp"
+    },
+    {
+        "id": "102",
+        "name": "Mom's Bottle of Pills",
+        "description": "À l'utilisation, donne à Isaac une pilule aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Bottle_of_Pills_icon.webp"
+    },
+    {
+        "id": "137",
+        "name": "Remote Detonator",
+        "description": "Les bombes placées par Isaac n'explosent que lorsque le Détonateur à distance est utilisé. Donne 5 bombes.",
+        "unlock": "De base",
+        "type": "Activable & Bombes",
+        "image": "./img/items/Collectible_Remote_Detonator_icon.webp"
+    },
+    {
+        "id": "147",
+        "name": "Notched Axe",
+        "description": "Alterne entre les larmes et la pioche, qui peut être utilisée pour attaquer et briser les obstacles. Son utilisation épuise la charge, et elle ne peut être réutilisée qu'au prochain étage une fois la charge épuisée.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Notched_Axe_icon.webp"
+    },
+    {
+        "id": "164",
+        "name": "The Candle",
+        "description": "Projette une flamme qui endommage tout sur son passage, en diminuant de taille au fur et à mesure qu'elle se déplace.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Candle_icon.webp"
+    },
+    {
+        "id": "177",
+        "name": "Portable Slot",
+        "description": "Lors de son utilisation, il consomme 1 penny et a une chance de faire tomber un objet aléatoire, comme une machine à sous.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Portable_Slot_icon.webp"
+    },
+    {
+        "id": "286",
+        "name": "Blank Card",
+        "description": "Copie l'effet de la carte actuellement détenue par Isaac. Le temps de charge est basé sur la puissance de la carte.",
+        "unlock": "Débloquez cet objet en battant Isaac dans la cathédrale avec Eden.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Blank_Card_icon.webp"
+    },
+    {
+        "id": "289",
+        "name": "Red Candle",
+        "description": "Projette une flamme qui endommage tout ce qui se trouve sur son passage, en diminuant de taille lorsqu'elle touche des ennemis ou bloque des tirs.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Red_Candle_icon.webp"
+    },
+    {
+        "id": "290",
+        "name": "The Jar",
+        "description": "Lorsque vous êtes en pleine santé, vous pouvez stocker jusqu'à 4 cœurs rouges supplémentaires dans la jarre. L'activation fait tomber les cœurs stockés sur le sol.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Jar_icon.webp"
+    },
+    {
+        "id": "295",
+        "name": "Magic Fingers",
+        "description": "Utilise 1 Penny pour infliger des dégâts à tous les ennemis dans la pièce.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Magic_Fingers_icon.webp"
+    },
+    {
+        "id": "296",
+        "name": "Converter",
+        "description": "Convertit un cœur d'âme ou un cœur noir en un conteneur de cœur rouge rempli.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Converter_icon.webp"
+    },
+    {
+        "id": "297",
+        "name": "Pandora's Box",
+        "description": "À l'utilisation, fait apparaître des ramassables ou des objets spécifiques en fonction de l'étage sur lequel il est utilisé. Disparaît après utilisation.",
+        "unlock": "Débloquez cet objet en vainquant l'Agneau dans la salle noir en tant que Lazarus",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Pandoras_Box_icon.webp"
+    },
+    {
+        "id": "338",
+        "name": "The Boomerang",
+        "description": "Lance un boomerang qui récupère les pickups, inflige des dégâts aux ennemis touchés et les pétrifie pendant 2 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Boomerang_icon.webp"
+    },
+    {
+        "id": "347",
+        "name": "Diplopia",
+        "description": "Duplique tous les ramassages et les objets sur piédestaux dans la pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Diplopia_icon.webp"
+    },
+    {
+        "id": "348",
+        "name": "Placebo",
+        "description": "A le même effet que la Pilule actuellement détenue par Isaac. Le temps de charge est basé sur la puissance de la pilule.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Placebo_icon.webp"
+    },
+    {
+        "id": "349",
+        "name": "Wooden Nickel",
+        "description": "Lorsqu'il est utilisé, il a environ 50 % de chances de faire tomber un penny, un nickel ou une pièce de 10 cents.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Wooden_Nickel_icon.webp"
+    },
+    {
+        "id": "357",
+        "name": "Box of Friends",
+        "description": "Duplique tous les familiers d'Isaac dans la pièce actuelle. Si Isaac n'a pas de familiers, il crée un bébé démon dans la pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Box_of_Friends_icon.webp"
+    },
+    {
+        "id": "383",
+        "name": "Tear Detonator",
+        "description": "Divise toutes les larmes d'Isaac qui sont actuellement en l'air en 6 larmes qui tirent dans toutes les directions et qui conservent leurs dégâts et leur vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Tear_Detonator_icon.webp"
+    },
+    {
+        "id": "396",
+        "name": "Ventricle Razor",
+        "description": "Crée jusqu'à deux portails qui restent en place même si Isaac quitte la pièce. En entrant dans un portail, Isaac est téléporté dans l'autre portail.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Ventricle_Razor_icon.webp"
+    },
+    {
+        "id": "422",
+        "name": "Glowing Hourglass",
+        "description": "Remonte le temps, ramenant Isaac dans la pièce précédente et annulant tout ce qui s'est passé dans la pièce actuelle. Ne peut être utilisé que trois fois par étage, après quoi il fonctionne comme The Hourglass jusqu'au prochain étage.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Glowing_Hourglass_icon.webp"
+    },
+    {
+        "id": "434",
+        "name": "Jar of Flies",
+        "description": "Tuer un ennemi ajoute une mouche à la jarre, jusqu'à un maximum de 20. Lors de l'utilisation, libère un nombre de mouches bleues égal au nombre de mouches dans le bocal.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Jar_of_Flies_icon.webp"
+    },
+    {
+        "id": "439",
+        "name": "Mom's Box",
+        "description": "Augmente la chance de 1 et double les effets des babioles lorsqu'il est tenu. Lorsqu'il est utilisé, il laisse tomber une babiole aléatoire sur le sol.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Box_icon.webp"
+    },
+    {
+        "id": "475",
+        "name": "Plan C",
+        "description": "Tue tous les ennemis dans la pièce, puis tue Isaac trois secondes plus tard.",
+        "unlock": "Débloquez cet objet en vainquant Greedier en tant que Lazarus",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Plan_C_icon.webp"
+    },
+    {
+        "id": "479",
+        "name": "Smelter",
+        "description": "Consomme la babiole que tient Isaac et applique son effet de façon permanente.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Smelter_icon.webp"
+    },
+    {
+        "id": "480",
+        "name": "Compost",
+        "description": "Double les Mouches Bleues et les Araignées Bleues d'Isaac, ou en fait apparaître une si Isaac n'en a pas. Convertit les objets ramassables dans la salle actuelle en Mouches Bleues ou en Araignées Bleues.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Compost_icon.webp"
+    },
+    {
+        "id": "483",
+        "name": "Mama Mega!",
+        "description": "Endommage tous les ennemis et détruit tous les obstacles. L'effet se produit à chaque fois que l'on entre dans une nouvelle pièce pour le reste de l'étage. Ouvre les portes des salles secrètes et super secrètes de l'étage.",
+        "unlock": "Feature coming soon",
+        "type": "Activable & Bombes",
+        "image": "./img/items/Collectible_Mama_Mega_icon.webp"
+    },
+    {
+        "id": "485",
+        "name": "Crooked Penny",
+        "description": "Fait apparaître un penny et a une chance de 50% de doubler tous les objets et ramassages dans la pièce. Si l'effet échoue, les objets et ramassages disparaissent.",
+        "unlock": "Débloquez cet objet en vainquant Délirium dans le void en tant que Keeper.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Crooked_Penny_icon.webp"
+    },
+    {
+        "id": "486",
+        "name": "Dull Razor",
+        "description": "Blesse Isaac sans réduire sa santé et active les objets qui se déclenchent lorsqu'il subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Dull_Razor_icon.webp"
+    },
+    {
+        "id": "487",
+        "name": "Potato Peeler",
+        "description": "Supprime un conteneur de cœur, augmente les dégâts et la portée, et octroie un cube de viande.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Potato_Peeler_icon.webp"
+    },
+    {
+        "id": "515",
+        "name": "Mystery Gift",
+        "description": "Lorsqu'il est utilisé, il génère un objet aléatoire de la réserve d'objets de la pièce en cours, avec une chance de générer un morceau de charbon ou du caca à la place.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mystery_Gift_icon.webp"
+    },
+    {
+        "id": "521",
+        "name": "Coupon",
+        "description": "Lorsqu'il est tenu, il garantit qu'un objet de chaque boutique sera en vente. Lors de l'utilisation, un objet aléatoire de la pièce actuelle devient gratuit.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Coupon_icon.webp"
+    },
+    {
+        "id": "523",
+        "name": "Moving Box",
+        "description": "Si la boîte est vide, il ramasse les objets et les ramassables dans une pièce et les stocke. Si la boîte n'est pas vide, elle place tous les objets stockés et les ramassables dans la pièce actuelle.  Peut transporter jusqu'à 10 objets ou ramassables à la fois.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moving_Box_icon.webp"
+    },
+    {
+        "id": "527",
+        "name": "Mr. ME!",
+        "description": "Invoque un fantôme contrôlable qui peut effectuer diverses tâches en fonction de la cible.",
+        "unlock": "Feature coming soon",
+        "type": "",
+        "image": "./"
+    },
+    {
         "id": "566",
         "name": "Dream Catcher",
         "description": "Pendant la transition entre les étages, le cauchemar d'Isaac montre le contenu de la Salle au trésor du prochain étage, ainsi que le boss de l'étage. Accorde un demi-cœur d'âme en entrant dans un nouvel étage.",
@@ -22,5 +294,45 @@
         "unlock": "De base",
         "type": "Passif",
         "image": "./img/items/Voodoo_Head.webp"
+    },
+    {
+        "id": "604",
+        "name": "Mom's Bracelet",
+        "description": "Permet à Isaac de ramasser et de lancer des rochers, des TNT, des crottes, des caca amicales, des bombes et d'autres obstacles.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Bracelet_icon.webp"
+    },
+    {
+        "id": "623",
+        "name": "Sharp Key",
+        "description": "Ajoute 5 clés au ramassage. Permet à Isaac de lancer ses clés pour infliger des dégâts aux ennemis, détruire des obstacles et ouvrir des portes.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Sharp_Key_icon.webp"
+    },
+    {
+        "id": "638",
+        "name": "Eraser",
+        "description": "Lance une gomme qui tue instantanément le premier monstre qu'elle touche et empêche ce monstre d'apparaître pour le reste de la course. Ne peut être utilisé qu'une seule fois par étage.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Eraser_icon.webp"
+    },
+    {
+        "id": "642",
+        "name": "Magic Skin",
+        "description": "Consomme un conteneur de cœur ou deux cœurs d'âme pour faire apparaître un objet et donne à Isaac un conteneur de cœur brisé qui ne peut jamais être rempli. Si Magic Skin n'est pas conservé après utilisation, il est très probable qu'il remplace tous les futurs objets.",
+        "unlock": "Débloquez cet objet en vainquant Mother dans le Corpse II en tant que Jacob et Esaü",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Magic_Skin_icon.webp"
+    },
+    {
+        "id": "719",
+        "name": "Keeper's Box",
+        "description": "Fait apparaître un objet ou un objet ramassable aléatoire en magasin qui peut être acheté pour son prix normal.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Keepers_Box_icon.webp"
     }
 ]

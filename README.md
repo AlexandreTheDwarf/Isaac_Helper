@@ -30,7 +30,7 @@ Il est également adapté aux personnes dyslexiques, avec une police de caractè
 - [x] Treasure Room
 - [x] Curse Room
 - [x] Secret Room
-- [ ] Shop Room
+- [x] Shop Room
 - [x] Boss Room
 - [x] Golden Chest
 - [x] Red Chest

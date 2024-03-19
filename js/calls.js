@@ -368,7 +368,8 @@ const trinketsButton = document.getElementById('trinkets');
 
             const descDiv = document.createElement('div');
             descDiv.className = 'description'; 
-            descDiv.innerHTML = `<h2>${item.name}</h2><p>${item.description}</p>`;
+            descDiv.innerHTML = `<h2>${item.name}</h2><p>${item.description}</p><p>Débloquer : ${item.unlock}</p>`;
+
             descDiv.style.display = 'none';
 
             

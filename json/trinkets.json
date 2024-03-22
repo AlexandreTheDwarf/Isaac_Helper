@@ -245,11 +245,11 @@
         "image": "./img/trinkets/Curved_Horn.webp"
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "36",
+        "name": "Rusted Key",
+        "description": "Augmente les chances de faire tomber des clés après avoir vidé une pièce, et les chances de trouver des clés en ouvrant un coffre.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Rusted_Key_icon.webp"    
     },
     {
         "id": "37",
@@ -259,32 +259,32 @@
         "image": "./img/trinkets/Goat_Hoof.webp"
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "38",
+        "name": "Mom's Pearl",
+        "description": "Octroie 10% de chances supplémentaires de transformer un cœur non spécifique en cœur d'âme.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Moms_Pearl_icon.webp"    
     },
     {
         "id": "39",
         "name": "Cancer",
         "description": "+1.0 taux de tir.",
-        "unlock": "",
+        "unlock": "Feature coming soon",
         "image": "./img/trinkets/Cancer_icon.webp"
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "40",
+        "name": "Red Patch",
+        "description": "Confère une chance de gagner +1,8 point de dégâts pour la salle actuelle en cas de dégâts.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Red_Patch_icon.webp"    
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "41",
+        "name": "Match Stick",
+        "description": "Augmente les chances de faire tomber des bombes après avoir nettoyé une pièce, et les chances de trouver des bombes en ouvrant un coffre.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Match_Stick_icon.webp"    
     },
     {
         "id": "42",
@@ -297,42 +297,35 @@
         "id": "43",
         "name": "Cursed Skull",
         "description": "Si Isaac a moins d'un cœur rouge complet après avoir subi des dégâts, il sera immédiatement téléporté dans une pièce aléatoire.",
-        "unlock": "",
+        "unlock": "Feature coming soon",
         "image": "./img/trinkets/Cursed_Skull.webp"
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "44",
+        "name": "Safety Cap",
+        "description": "Augmente les chances de faire tomber des pilules après avoir vidé une pièce, et les chances de trouver une pilule en ouvrant un coffre.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Safety_Cap_icon.webp"    
     },
     {
         "id": "45",
         "name": "Ace of Spades",
         "description": "Augmente la chance que des cartes de tarot ou des cartes à jouer tombent après avoir nettoyé une pièce, ainsi que la chance de trouver des cartes en ouvrant un coffre.",
-        "unlock": "",
+        "unlock": "Feature coming soon",
         "image": "./img/trinkets/Ace_of_Spades.webp"
     },
     {
         "id": "46",
         "name": "Isaac's Fork",
         "description": "Isaac a une chance de se soigner d'un demi-cœur rouge en nettoyant une pièce.",
-        "unlock": "",
+        "unlock": "Feature coming soon",
         "image": "./img/trinkets/Isaas_Fork.webp"    
-    },
-    {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
     },
     {
         "id": "48",
         "name": "A Missing Page",
         "description": "5% de chance d'induire l'effet du Necronomicon lorsqu'il subit des dégâts. Ajoute +40 de dégâts aux cœurs noirs et aux effets similaires au Necronomicon.",
-        "unlock": "",
+        "unlock": "Feature coming soon",
         "image": "./img//trinkets/A_Missing_Page.webp"
     },
     {
@@ -364,11 +357,11 @@
         "image": "./img/trinkets/Counterfeit_Penny.webp"
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "53",
+        "name": "Tick",
+        "description": "Draine 15% de la santé des ennemis ayant plus de 60 HP. Restaure un coeur rouge en entrant dans une salle de boss non nettoyée. La tique ne peut pas être abandonné ou échangé contre une autre babiole (à l'exception du bâton d'allumette).",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Tick_icon.webp"    
     },
     {
         "id": "54",
@@ -378,11 +371,11 @@
         "image": "./img/trinkets/Isaacs_Head.webp"    
     },
     {
-        "id": "",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "id": "55",
+        "name": "Maggy's Faith",
+        "description": "Donne un Coeur éternel au début de chaque étage.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Maggys_Faith_icon.webp"    
     },
     {
         "id": "56",
@@ -399,6 +392,13 @@
         "image": "./img//trinkets/Blue_Baby_Soul.webp"
     },
     {
+        "id": "58",
+        "name": "Samson's Lock",
+        "description": "1/15 de chances de gagner +0,5 point de dégâts pour la salle actuelle à chaque fois qu'un ennemi meurt.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Samsons_Lock_icon.webp"    
+    },
+    {
         "id": "59",
         "name": "Cain's Eye",
         "description": "Au début d'un étage, une chance de 25% d'obtenir l'effet de la Boussole pour la durée de l'étage.",
@@ -413,52 +413,906 @@
         "image": "./img/trinkets/Eves_Bird_Foot.webp"    
     },
     {
-        "id": "",
+        "id": "61",
+        "name": "The Left Hand",
+        "description": "Remplace tous les types de coffres par des coffres rouges.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_The_Left_Hand_icon.webp"    
+    },
+    {
+        "id": "62",
+        "name": "Shiny Rock",
+        "description": "Les rochers marqués et les rochers sous lesquels se trouvent une echelle ou une trappe clignotent en blanc en entrant dans la pièce et toutes les 10 secondes par la suite.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Shiny_Rock_icon.webp"    
+    },
+    {
+        "id": "63",
+        "name": "Safety Scissors",
+        "description": "Les bombes Troll se transforment en bombes à ramasser avant d'exploser. Les méga-bombes trolls se transforment en doubles bombes avant d'exploser.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Safety_Scissors_icon.webp"    
+    },
+    {
+        "id": "64",
+        "name": "Rainbow Worm",
+        "description": "Les larmes d'Isaac gagnent un effet de ver qui change toutes les 3 secondes.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Rainbow_Worm_icon.webp"    
+    },
+    {
+        "id": "65",
+        "name": "Tape Worm",
+        "description": "+3 Portée.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Tape_Worm_icon.webp"    
+    },
+    {
+        "id": "66",
+        "name": "Lazy Worm",
+        "description": "Diminue la vitesse de tir de 0,5. ",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Lazy_Worm_icon.webp"    
+    },
+    {
+        "id": "67",
+        "name": "Cracked Dice",
+        "description": "Active l'effet du D6, D8, (dans Repentance) D10, D12, ou D20 (choisi au hasard) chaque fois qu'Isaac subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Cracked_Dice_icon.webp"    
+    },
+    {
+        "id": "68",
+        "name": "Super Magnet",
+        "description": "Tire les ennemis et les objets ramassés vers Isaac.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Super_Magnet_icon.webp"    
+    },
+    {
+        "id": "69",
+        "name": "Faded Polaroid",
+        "description": "Isaac se fond parfois dans le sol, ce qui désoriente brièvement tous les ennemis présents dans la pièce. Peut être utilisé pour ouvrir la Porte Étrange (accés the Beast) dans les Profondeurs.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Faded_Polaroid_icon.webp"    
+    },
+    {
+        "id": "70",
+        "name": "Louse",
+        "description": "Occasionnellement, une araignée bleue apparaît.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Louse_icon.webp"    
+    },
+    {
+        "id": "71",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
     },
     {
-        "id": "",
+        "id": "72",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
     },
     {
-        "id": "",
+        "id": "73",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
     },
     {
-        "id": "",
+        "id": "74",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
     },
     {
-        "id": "",
+        "id": "75",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
     },
     {
-        "id": "",
+        "id": "76",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
     },
     {
-        "id": "",
+        "id": "77",
         "name": "",
         "description": "",
         "unlock": "",
         "image": "./"    
-    }    
+    },
+    {
+        "id": "78",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "79",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "80",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "81",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "82",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "83",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "84",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "85",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "86",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "87",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "88",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "89",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "90",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "91",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "92",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "93",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "94",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "95",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "96",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "97",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "98",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "99",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "100",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "101",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "102",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "103",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "104",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "105",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "106",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "107",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "108",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "109",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "110",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "111",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "112",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "113",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "114",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "115",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "116",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "117",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "118",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "119",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "120",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "121",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "122",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "123",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "124",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "125",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "126",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "127",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "128",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "129",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "130",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "131",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "132",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "133",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "134",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "135",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "136",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "137",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "138",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "139",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "140",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "141",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "142",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "143",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "144",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "145",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "146",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "147",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "148",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "149",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "150",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "151",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "152",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "153",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "154",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "155",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "156",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "157",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "158",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "159",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "160",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "161",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "162",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "163",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "164",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "165",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "166",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "167",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "168",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "169",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "170",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "171",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "172",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "173",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "174",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "175",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "176",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "177",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "178",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "179",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "180",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "181",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "182",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "183",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "184",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "185",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "186",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "187",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "188",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    },
+    {
+        "id": "189",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "image": "./"    
+    }     
 ]

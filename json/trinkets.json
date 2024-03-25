@@ -484,73 +484,73 @@
     },
     {
         "id": "71",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "name": "Bob's Bladder",
+        "description": "Laisse une flaque d'eau verte sous toutes les bombes placées par Isaac, qui endommage les ennemis qui marchent dessus.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Bobs_Bladder_icon.webp"    
     },
     {
         "id": "72",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"    
+        "name": "Watch Battery",
+        "description": "Augmentation des chances de voir apparaître des petites batteries. A une chance d'ajouter une charge supplémentaire à l'objet activé d'Isaac lorsqu'il termine une pièce.",
+        "unlock": "Feature coming soon",
+        "image": "./img/trinkets/Trinket_Watch_Battery_icon.webp"    
     },
     {
         "id": "73",
-        "name": "",
-        "description": "",
+        "name": "Blasting Cap",
+        "description": "Les bombes qui explosent ont une chance de faire apparaître une autre bombe ramassable.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Blasting_Cap_icon.webp"    
     },
     {
         "id": "74",
-        "name": "",
-        "description": "",
+        "name": "Stud Finder",
+        "description": "Augmente les chances de trouver une trappe ou une échelle de corde.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Stud_Finder_icon.webp"    
     },
     {
         "id": "75",
-        "name": "",
-        "description": "",
+        "name": "Error",
+        "description": "Donne un effet de trinket aléatoire à chaque pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Error_icon.webp"    
     },
     {
         "id": "76",
-        "name": "",
-        "description": "",
+        "name": "Poker Chip",
+        "description": "Les coffres ont 50% de chances de rapporter des ramassables supplémentaires et 50% de chances de remplacer tout leur contenu par une Mouche d'attaque.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Poker_Chip_icon.webp"    
     },
     {
         "id": "77",
-        "name": "",
-        "description": "",
+        "name": "Blister",
+        "description": "Augmente l'effet de recul des larmes.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Blister_icon.webp"    
     },
     {
         "id": "78",
-        "name": "",
-        "description": "",
+        "name": "Second Hand",
+        "description": "Augmente la durée des effets de statut sur les ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Second_Hand_icon.webp"    
     },
     {
         "id": "79",
-        "name": "",
-        "description": "",
+        "name": "Endless Nameless",
+        "description": "A 25 % de chances de créer un double des pilules, cartes ou runes qu'Isaac utilise.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Endless_Nameless_icon.webp"    
     },
     {
         "id": "80",
-        "name": "",
-        "description": "",
+        "name": "Black Feather",
+        "description": "Augmente les dégâts d'Isaac pour chaque objet ou bibelot 'maléfique' qu'il possède.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Black_Feather_icon.webp"    
     },
     {
         "id": "81",

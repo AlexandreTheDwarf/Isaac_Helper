@@ -764,143 +764,143 @@
     },
     {
         "id": "111",
-        "name": "",
-        "description": "",
+        "name": "Bloody Crown",
+        "description": "Les salles de trésor apparaissent au chapitre 4. (The womb)",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Bloody_Crown_icon.webp"    
     },
     {
         "id": "112",
-        "name": "",
-        "description": "",
+        "name": "Pay to Win",
+        "description": "Les machines de reroll de la boutique apparaissent toujours dans les salles de trésor.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Pay_to_Win_icon.webp"    
     },
     {
         "id": "113",
-        "name": "",
-        "description": "",
+        "name": "Locust of War",
+        "description": "En entrant pour la première fois dans une pièce avec des ennemis, une sauterelle rouge apparaît et explose à l'impact avec les ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Locust_of_War_icon.webp"    
     },
     {
         "id": "114",
-        "name": "",
-        "description": "",
+        "name": "Locust of Pestilence",
+        "description": "En entrant dans une pièce avec des ennemis, un criquet vert apparaît, qui endommage et empoisonne les ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Locust_of_Pestilence_icon.webp"    
     },
     {
         "id": "115",
-        "name": "",
-        "description": "",
+        "name": "Locust of Famine",
+        "description": "En entrant dans une pièce avec des ennemis, une sauterelle jaune apparaît, qui endommage et ralentit les ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Locust_of_Famine_icon.webp"    
     },
     {
         "id": "116",
-        "name": "",
-        "description": "",
+        "name": "Locust of Death",
+        "description": "En entrant dans une pièce avec des ennemis, une sauterelle noire apparaît et inflige de très gros dégâts.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Locust_of_Death_icon.webp"    
     },
     {
         "id": "117",
-        "name": "",
-        "description": "",
+        "name": "Locust of Conquest",
+        "description": "En entrant dans une pièce avec des ennemis, 1 à 4 criquets blancs apparaissent et infligent des dégâts aux ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Locust_of_Conquest_icon.webp"    
     },
     {
         "id": "118",
-        "name": "",
-        "description": "",
+        "name": "Bat Wing",
+        "description": "En tuant un ennemi, a une chance d'accorder le vol pour le reste de la pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Bat_Wing_icon.webp"    
     },
     {
         "id": "119",
-        "name": "",
-        "description": "",
+        "name": "Stem Cell",
+        "description": "Soigne les points de vie du Cœur rouge d'Isaac à 50 % du maximum en se rendant à l'étage suivant. Si ses points de vie sont déjà égaux ou supérieurs à 50 %, cela soigne un demi-cœur rouge à la place.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Stem_Cell_icon.webp"    
     },
     {
         "id": "120",
-        "name": "",
-        "description": "",
+        "name": "Hairpin",
+        "description": "Recharge complètement l'objet actif d'Isaac en entrant dans un combat de boss.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Hairpin_icon.webp"    
     },
     {
         "id": "121",
-        "name": "",
-        "description": "",
+        "name": "Wooden Cross",
+        "description": "Octroie un bouclier qui annule les premiers dégâts subis une fois par étage.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Wooden_Cross_icon.webp"    
     },
     {
         "id": "122",
-        "name": "",
-        "description": "",
+        "name": "Butter!",
+        "description": "L'utilisation d'un objet activable le fera tomber sur un piédestal au sol. Les dégâts subis peuvent entraîner la chute d'un objet passif.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Butter_icon.webp"    
     },
     {
         "id": "123",
-        "name": "",
-        "description": "",
+        "name": "Filigree Feather",
+        "description": "Les anges laissent tomber des objets de la salle des anges au lieu de pièces de clé lorsqu'ils sont vaincus.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Filigree_Feather_icon.webp"    
     },
     {
         "id": "124",
-        "name": "",
-        "description": "",
+        "name": "Door Stop",
+        "description": "La dernière porte qu'Isaac a franchie reste ouverte, ce qui lui permet de quitter la pièce même si des ennemis s'y trouvent.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Door_Stop_icon.webp"    
     },
     {
         "id": "125",
-        "name": "",
-        "description": "",
+        "name": "Extension Cord",
+        "description": "Des éclairs d'électricité circulent entre Isaac et ses familiers, endommageant les ennemis qui se trouvent entre eux.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Extension_Cord_icon.webp"    
     },
     {
         "id": "126",
-        "name": "",
-        "description": "",
+        "name": "Rotten Penny",
+        "description": "Fait naître une mouche bleue chaque fois qu'une pièce est ramassée.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Rotten_Penny_icon.webp"    
     },
     {
         "id": "127",
-        "name": "",
-        "description": "",
+        "name": "Baby-Bender",
+        "description": "Permet aux familiers d'Isaac d'effectuer des tirs à tête chercheuse.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Baby-Bender_icon.webp"    
     },
     {
         "id": "128",
-        "name": "",
-        "description": "",
+        "name": "Finger Bone",
+        "description": "Octroie une chance de gagner un Coeur d'os en subissant des dégâts.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Finger_Bone_icon.webp"    
     },
     {
         "id": "129",
-        "name": "",
-        "description": "",
+        "name": "Jawbreaker",
+        "description": "Ajoute la possibilité de tirer des dents qui infligent 3,2x les dégâts.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Jawbreaker_icon.webp"    
     },
     {
         "id": "130",
-        "name": "",
-        "description": "",
+        "name": "Chewed Pen",
+        "description": "Ajoute une chance de tirer des larmes qui ralentissent les ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Chewed_Pen_icon.webp"    
     },
     {
         "id": "131",

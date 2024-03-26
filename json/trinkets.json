@@ -624,73 +624,73 @@
     },
     {
         "id": "91",
-        "name": "",
-        "description": "",
+        "name": "Meconium",
+        "description": "Les cacas noirs peuvent lâcher des Cœurs noirs lorsqu'ils sont détruits. Les cacas ont une chance de se transformer en caca noir.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Meconium_icon.webp"    
     },
     {
         "id": "92",
-        "name": "",
-        "description": "",
+        "name": "Cracked Crown",
+        "description": "Diminue le délai de larme d'Isaac de 20 %, et améliore l'efficacité de ses autres améliorations de stat de 20 %.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Cracked_Crown_icon.webp"    
     },
     {
         "id": "93",
-        "name": "",
-        "description": "",
+        "name": "Used Diaper",
+        "description": "Accorde l'effet de l'objet 'Skatole' dans certaines pièces.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Used_Diaper_icon.webp"    
     },
     {
         "id": "94",
-        "name": "",
-        "description": "",
+        "name": "Fish Tail",
+        "description": "Les objets et babioles qui génèrent des mouches bleues ou des sauterelles en génèrent deux fois plus.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Fish_Tail_icon.webp"    
     },
     {
         "id": "95",
-        "name": "",
-        "description": "",
+        "name": "Black Tooth",
+        "description": "Ajoute une chance de tirer une dent noire qui inflige des dégâts doublés et empoisonne les ennemis.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Black_Tooth_icon.webp"    
     },
     {
         "id": "96",
-        "name": "",
-        "description": "",
+        "name": "Ouroboros Worm",
+        "description": "Les larmes se déplacent dans une grande spirale et gagnent l'effet spectral, avec une petite chance d'obtenir un effet d'autoguidage. Ajoute également +0,4 Larmes.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Ouroboros_Worm_icon.webp"    
     },
     {
         "id": "97",
-        "name": "",
-        "description": "",
+        "name": "Tonsil",
+        "description": "Lorsqu'il est touché, il a une petite chance d'engendrer une amygdale familière permanente qui bloque les tirs ennemis. Cela peut se produire deux fois, après quoi la babiole est détruite.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Tonsil_icon.webp"    
     },
     {
         "id": "98",
-        "name": "",
-        "description": "",
+        "name": "Nose Goblin",
+        "description": "Possibilité de tirer une crotte de nez à tête chercheuse qui se colle aux ennemis et leur inflige des dégâts sur la durée.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Nose_Goblin_icon.webp"    
     },
     {
         "id": "99",
-        "name": "",
-        "description": "",
+        "name": "Super Ball",
+        "description": "Les larmes ont une chance de rebondir sur les ennemis et les obstacles.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Super_Ball_icon.webp"    
     },
     {
         "id": "100",
-        "name": "",
-        "description": "",
+        "name": "Vibrant Bulb",
+        "description": "Augmente toutes les statistiques lorsque l'objet activable d'Isaac est complètement chargé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Vibrant_Bulb_icon.webp"    
     },
     {
         "id": "101",

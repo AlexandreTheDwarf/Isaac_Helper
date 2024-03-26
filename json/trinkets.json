@@ -554,73 +554,73 @@
     },
     {
         "id": "81",
-        "name": "",
-        "description": "",
+        "name": "Blind Rage",
+        "description": "Augmente le temps d'invincibilité après avoir été frappé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Blind_Rage_icon.webp"    
     },
     {
         "id": "82",
-        "name": "",
-        "description": "",
+        "name": "Golden Horse Shoe",
+        "description": "+15% de chances pour les salles de trésor d'avoir deux objets. Un seul objet peut être pris.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Golden_Horse_Shoe_icon.webp"    
     },
     {
         "id": "83",
-        "name": "",
-        "description": "",
+        "name": "Store Key",
+        "description": "Les boutiques peuvent être ouvertes sans utiliser de clés.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Store_Key_icon.webp"    
     },
     {
         "id": "84",
-        "name": "",
-        "description": "",
+        "name": "Rib of Greed",
+        "description": "Empêche 'Greed' et 'Super Greed' d'apparaître dans les boutiques et les salles secrètes, et augmente les chances de récupérer des pièces après avoir nettoyé les salles.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Rib_of_Greed_icon.webp"    
     },
     {
         "id": "85",
-        "name": "",
-        "description": "",
+        "name": "Karma",
+        "description": "Faire un don à une machine à dons a une chance de guérir Isaac pour un cœur rouge complet ou d'engendrer un mendiant. Augmente les chances d'Isaac d'avoir plus de chance en faisant un don à une machine à dons.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Karma_icon.webp"    
     },
     {
         "id": "86",
-        "name": "",
-        "description": "",
+        "name": "Lil Larva",
+        "description": "Crée une mouche bleue à partir de chaque tas de caca qu'Isaac détruit.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Lil_Larva_icon.webp"    
     },
     {
         "id": "87",
-        "name": "",
-        "description": "",
+        "name": "Mom's Locket",
+        "description": "Octroie un demi-cœur rouge à chaque fois qu'une clé est utilisée. Convertit les demi-cœurs rouge en cœurs rouges.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Moms_Locket_icon.webp"    
     },
     {
         "id": "88",
-        "name": "",
-        "description": "",
+        "name": "NO!",
+        "description": "Empêche la génération d'objets activables, si possible.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_NO_icon.webp"    
     },
     {
         "id": "89",
-        "name": "",
-        "description": "",
+        "name": "Child Leash",
+        "description": "Permet aux familiers de rester plus proches les uns des autres.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Child_Leash_icon.webp"    
     },
     {
         "id": "90",
-        "name": "",
-        "description": "",
+        "name": "Brown Cap",
+        "description": "Les cacas explosent lorsqu'ils sont détruits.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Brown_Cap_icon.webp"    
     },
     {
         "id": "91",

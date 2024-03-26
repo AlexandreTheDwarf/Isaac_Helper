@@ -904,143 +904,143 @@
     },
     {
         "id": "131",
-        "name": "",
-        "description": "",
+        "name": "Blessed Penny",
+        "description": "Donne une chance de faire tomber un demi-coeur d'âme lorsqu'une pièce est collectée.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Blessed_Penny_icon.webp"    
     },
     {
         "id": "132",
-        "name": "",
-        "description": "",
+        "name": "Broken Syringe",
+        "description": "Donne une chance de gagner un effet de seringue aléatoire pour la pièce en cours.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Broken_Padlock_icon.webp"    
     },
     {
         "id": "133",
-        "name": "",
-        "description": "",
+        "name": "Short Fuse",
+        "description": "Les bombes placées par Isaac explosent plus rapidement.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Short_Fuse_icon.webp"    
     },
     {
         "id": "134",
-        "name": "",
-        "description": "",
+        "name": "Gigante Bean",
+        "description": "Augmente la taille des pets d'Isaac.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Gigante_Bean_icon.webp"    
     },
     {
         "id": "135",
-        "name": "",
-        "description": "",
+        "name": "A Lighter",
+        "description": "Ajoute une chance de brûler les ennemis lorsqu'isaac entre dans une pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_A_Lighter_icon.webp"    
     },
     {
         "id": "136",
-        "name": "",
-        "description": "",
+        "name": "Broken Padlock",
+        "description": "Les serrures peuvent être ouvertes par des explosions.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Broken_Padlock_icon.webp"    
     },
     {
         "id": "137",
-        "name": "",
-        "description": "",
+        "name": "Myosotis",
+        "description": "En entrant dans un nouvel étage, jusqu'à quatre pickups non ramassés à l'étage précédent apparaissent dans la pièce de départ.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Myosotis_icon.webp"    
     },
     {
         "id": "138",
-        "name": "",
-        "description": "",
+        "name": "'M",
+        "description": "L'utilisation d'un objet activable le reroll.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_M_icon.webp"    
     },
     {
         "id": "139",
-        "name": "",
-        "description": "",
+        "name": "Teardrop Charm",
+        "description": "Les effets de larmes basés sur la chance ont plus de chances de se produire.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Teardrop_Charm_icon.webp"    
     },
     {
         "id": "140",
-        "name": "",
-        "description": "",
+        "name": "Apple of Sodom",
+        "description": "Ramasser des cœurs rouges, même en pleine santé, peut les convertir en araignées bleues. L'effet peut consommer les cœurs nécessaires aux soins.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Apple_of_Sodom_icon.webp"    
     },
     {
         "id": "141",
-        "name": "",
-        "description": "",
+        "name": "Forgotten Lullaby",
+        "description": "Améliore la cadence de tir des familiers d'Isaac.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Forgotten_Lullaby_icon.webp"    
     },
     {
         "id": "142",
-        "name": "",
-        "description": "",
+        "name": "Beth's Faith",
+        "description": "Au début de chaque étage, 4 à 8 feux follets apparaissent en orbite autour d'Isaac et tirent des larmes à ses côtés.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Beths_Faith_icon.webp"    
     },
     {
         "id": "143",
-        "name": "",
-        "description": "",
+        "name": "Old Capacitor",
+        "description": "Les objets actifs ne se rechargent pas lorsqu'on nettoie les salles. Ajout d'une chance de faire apparaître une Lil' Battery lors du nettoyage d'une pièce, indépendamment de la chute initiale de la pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Old_Capacitor_icon.webp"    
     },
     {
         "id": "144",
-        "name": "",
-        "description": "",
+        "name": "Brain Worm",
+        "description": "Les larmes se brisent à 90 degrés pour cibler les ennemis qu'elles auraient pu manquer.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Brain_Worm_icon.webp"    
     },
     {
         "id": "145",
-        "name": "",
-        "description": "",
+        "name": "Perfection",
+        "description": "+10 de chance. Si Isaac subit des dégâts, la babiole est détruite et son effet est supprimé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Perfection_icon.webp"    
     },
     {
         "id": "146",
-        "name": "",
-        "description": "",
+        "name": "Devil's Crown",
+        "description": "Les salles de trésor sont remplacées par des salles de trésor rouges uniques, offrant un Deal avec le diable à la place d'un objet.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Devils_Crown_icon.webp"    
     },
     {
         "id": "147",
-        "name": "",
-        "description": "",
+        "name": "Charged Penny",
+        "description": "Le ramassage des pièces a une chance de donner une charge d'objet activable.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Charged_Penny_icon.webp"    
     },
     {
         "id": "148",
-        "name": "",
-        "description": "",
+        "name": "Friendship Necklace",
+        "description": "Place les familiers en orbite autour d'Isaac.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Friendship_Necklace_icon.webp"    
     },
     {
         "id": "149",
-        "name": "",
-        "description": "",
+        "name": "Panic Button",
+        "description": "Utilise l'objet activable d'Isaac juste avant qu'il ne subisse des dégâts.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Panic_Button_icon.webp"    
     },
     {
         "id": "150",
-        "name": "",
-        "description": "",
+        "name": "Blue Key",
+        "description": "Les portes peuvent être déverrouillées sans utiliser de clés. En ouvrant une porte de cette façon, Isaac se retrouve dans une pièce intermédiaire qui ressemble à l'antre de the Hush, avec quelques monstres.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Blue_Key_icon.webp"    
     },
     {
         "id": "151",

@@ -694,73 +694,73 @@
     },
     {
         "id": "101",
-        "name": "",
-        "description": "",
+        "name": "Dim Bulb",
+        "description": "Augmente toutes les statistiques lorsque l'objet activable d'Isaac est complètement déchargé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Dim_Bulb_icon.webp"    
     },
     {
         "id": "102",
-        "name": "",
-        "description": "",
+        "name": "Fragmented Card",
+        "description": "Fait apparaître deux salles secrètes à chaque étage.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Fragmented_Card_icon.webp"    
     },
     {
         "id": "103",
-        "name": "",
-        "description": "",
+        "name": "Equality!",
+        "description": "Transforme les pickups en leurs versions doublées lorsque les nombres de pièces, de bombes et de clés d'Isaac sont égaux.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Equality_icon.webp"    
     },
     {
         "id": "104",
-        "name": "",
-        "description": "",
+        "name": "Wish Bone",
+        "description": "Les dégâts subis ont une petite chance de détruire le bibelot et d'engendrer un objet aléatoire.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Wish_Bone_icon.webp"    
     },
     {
         "id": "105",
-        "name": "",
-        "description": "",
+        "name": "Bag Lunch",
+        "description": "Les dégâts subis ont une petite chance de détruire le bibelot et de faire apparaître le 'Lunch'.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Bag_Lunch_icon.webp"    
     },
     {
         "id": "106",
-        "name": "",
-        "description": "",
+        "name": "Lost Cork",
+        "description": "Augmente le rayon d'action de tous les fluides produits par Isaac.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Lost_Cork_icon.webp"    
     },
     {
         "id": "107",
-        "name": "",
-        "description": "",
+        "name": "Crow Heart",
+        "description": "Les dégâts du Cœur rouge seront subis avant ceux du Cœur de l'âme, du Cœur noir et du Cœur pourri.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Crow_Heart_icon.webp"    
     },
     {
         "id": "108",
-        "name": "",
-        "description": "",
+        "name": "Walnut",
+        "description": "Les explosions finissent par détruire le bibelot et font apparaître divers objets à ramasser.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Walnut_icon.webp"    
     },
     {
         "id": "109",
-        "name": "",
-        "description": "",
+        "name": "Duct Tape",
+        "description": "Maintient les familiers d'Isaac en place par rapport à sa position.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Duct_Tape_icon.webp"    
     },
     {
         "id": "110",
-        "name": "",
-        "description": "",
+        "name": "Silver Dollar",
+        "description": "Les magasins apparaissent au chapitre 4. (The womb)",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Silver_Dollar_icon.webp"    
     },
     {
         "id": "111",

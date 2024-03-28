@@ -1184,80 +1184,80 @@
     },
     {
         "id": "171",
-        "name": "",
-        "description": "",
+        "name": "Keeper's Bargain",
+        "description": "Ajoute une chance pour que les pactes avec le Diable coûtent de l'argent au lieu de la santé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Keepers_Bargain_icon.webp"    
     },
     {
         "id": "172",
-        "name": "",
-        "description": "",
+        "name": "Cursed Penny",
+        "description": "Ramasser des pièces téléporte Isaac dans une pièce aléatoire.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Cursed_Penny_icon.webp"    
     },
     {
         "id": "173",
-        "name": "",
-        "description": "",
+        "name": "Your Soul",
+        "description": "Peut être utilisé pour payer un pacte du Diable sans perdre de cœurs, et est ensuite consommé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Your_Soul_icon.webp"    
     },
     {
         "id": "174",
-        "name": "",
-        "description": "",
+        "name": "Number Magnet",
+        "description": "Augmente de 10 % les chances de gagner une chambre du diable, empêche les Krampus d'apparaître et génère des agencements spéciaux pour les chambres du diable.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Number_Magnet_icon.webp"    
     },
     {
         "id": "175",
-        "name": "",
-        "description": "",
+        "name": "Strange Key",
+        "description": "Déverrouille le passage vers ??? et le combat contre Hush, quelle que soit la durée de la course. L'utilisation de la Boîte de Pandore lui confère un effet spécial, en consommant la clé.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Strange_Key_icon.webp"    
     },
     {
         "id": "176",
-        "name": "",
-        "description": "",
+        "name": "Lil Clot",
+        "description": "Crée un familier qui imite les mouvements et les larmes d'Isaac. Il meurt pour la salle en cours après avoir subi trop de dégâts.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Lil_Clot_icon.webp"    
     },
     {
         "id": "177",
-        "name": "",
-        "description": "",
+        "name": "Temporary Tattoo",
+        "description": "Fait apparaître un coffre après avoir traversé une salle de défi, ou un objet de boss supplémentaire après avoir traversé une salle de défi de boss.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Temporary_Tattoo_icon.webp"    
     },
     {
         "id": "178",
-        "name": "",
-        "description": "",
+        "name": "Swallowed M80",
+        "description": "Isaac explose lorsqu'il subit des dégâts.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Swallowed_M80_icon.webp"    
     },
     {
         "id": "179",
-        "name": "",
-        "description": "",
+        "name": "RC Remote",
+        "description": "Au lieu de suivre Isaac, les familiers sont directement contrôlés par les mêmes commandes que celles pour controler Isaac.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_RC_Remote_icon.webp"    
     },
     {
         "id": "180",
-        "name": "",
-        "description": "",
+        "name": "Found Soul",
+        "description": "Crée un familier qui copie les mouvements d'Isaac et s'adapte aux dégâts et aux larmes. S'il subit des dégâts, il meurt et réapparaît à l'étage suivant.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Found_Soul_icon.webp"    
     },
     {
         "id": "181",
-        "name": "",
-        "description": "",
+        "name": "Expansion Pack",
+        "description": "Une fois par pièce, l'utilisation d'un objet activable déclenche un autre effet d'objet activable aléatoire.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Expansion_Pack_icon.webp"    
     },
     {
         "id": "182",

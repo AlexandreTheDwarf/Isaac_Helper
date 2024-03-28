@@ -38,7 +38,7 @@ Il est également adapté aux personnes dyslexiques, avec une police de caractè
 - [x] Angel Room
 - [x] Library Room
 - [x] Planetarium Room
-- [ ] Trinkets
+- [x] Trinkets
 
 ### objets encodés avec comment les débloqués :
 

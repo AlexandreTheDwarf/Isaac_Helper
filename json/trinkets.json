@@ -1114,73 +1114,73 @@
     },
     {
         "id": "161",
-        "name": "",
-        "description": "",
+        "name": "Wicked Crown",
+        "description": "Une salle des trésors et une boutique apparaissent dans le séjour des morts (antre de satan).",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Wicked_Crown_icon.webp"    
     },
     {
         "id": "162",
-        "name": "",
-        "description": "",
+        "name": "Azazel's Stump",
+        "description": "Lorsque vous nettoyez une pièce, vous avez une chance de vous transformer en Azazel jusqu'à ce que vous en nettoyiez une autre.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Azazels_Stump_icon.webp"    
     },
     {
         "id": "163",
-        "name": "",
-        "description": "",
+        "name": "Dingle Berry",
+        "description": "Génère un familier caca en nettoyant une pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Dingle_Berry_icon.webp"    
     },
     {
         "id": "164",
-        "name": "",
-        "description": "",
+        "name": "Ring Cap",
+        "description": "Le placement d'une bombe génère une bombe supplémentaire gratuitement.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Ring_Cap_icon.webp"    
     },
     {
         "id": "165",
-        "name": "",
-        "description": "",
+        "name": "Nuh Uh!",
+        "description": "Remplace les clés et les pièces qui apparaissent à partir du chapitre 4 (utérus) par des objets plus utiles.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Nuh_Uh_icon.webp"    
     },
     {
         "id": "166",
-        "name": "",
-        "description": "",
+        "name": "Modeling Clay",
+        "description": "Octroie l'effet d'un objet passif aléatoire dans chaque pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Modeling_Clay_icon.webp"    
     },
     {
         "id": "167",
-        "name": "",
-        "description": "",
+        "name": "Polished Bone",
+        "description": "Après avoir nettoyé une pièce, ajoute une chance d'engendrer un squelette amical.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Polished_Bone_icon.webp"    
     },
     {
         "id": "168",
-        "name": "",
-        "description": "",
+        "name": "Hollow Heart",
+        "description": "Accorde un Coeur d'os vide à l'entrée d'un nouvel étage.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Hollow_Heart_icon.webp"    
     },
     {
         "id": "169",
-        "name": "",
-        "description": "",
+        "name": "Kid's Drawing",
+        "description": "Pendant qu'il est tenu, il compte comme un objet de Guppy.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Kids_Drawing_icon.webp"    
     },
     {
         "id": "170",
-        "name": "",
-        "description": "",
+        "name": "Crystal Key",
+        "description": "Chaque fois qu'Isaac nettoie une salle, il a une chance d'ouvrir une salle rouge voisine.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Crystal_Key_icon.webp"    
     },
     {
         "id": "171",

@@ -1044,73 +1044,73 @@
     },
     {
         "id": "151",
-        "name": "",
-        "description": "",
+        "name": "Flat File",
+        "description": "Rétracte tous les pics, les rendant inoffensifs. Affecte également les portes des salles de malédiction.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Flat_File_icon.webp"    
     },
     {
         "id": "152",
-        "name": "",
-        "description": "",
+        "name": "Telescope Lens",
+        "description": "Augmente les chances de voir apparaître des planétariums même si l'un d'entre eux a été visité et permet aux planétariums d'apparaître dans le chapitre 4. (l'utérus)",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Telescope_Lens_icon.webp"    
     },
     {
         "id": "153",
-        "name": "",
-        "description": "",
+        "name": "Mom's Lock",
+        "description": "Accorde les effets d'un objet Mom aléatoire dans chaque pièce.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Moms_Lock_icon.webp"    
     },
     {
         "id": "154",
-        "name": "",
-        "description": "",
+        "name": "Dice Bag",
+        "description": "Lorsque Isaac entre dans une nouvelle pièce, il a une chance de recevoir un objet de dé comme consommable pour la pièce en cours.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Dice_Bag_icon.webp"    
     },
     {
         "id": "155",
-        "name": "",
-        "description": "",
+        "name": "Holy Crown",
+        "description": "Une salle au trésor et un magasin apparaissent dans la cathédrale...",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Holy_Crown_icon.webp"    
     },
     {
         "id": "156",
-        "name": "",
-        "description": "",
+        "name": "Mother's Kiss",
+        "description": "Accorde un conteneur de cœur.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Mothers_Kiss_icon.webp"    
     },
     {
         "id": "157",
-        "name": "",
-        "description": "",
+        "name": "Torn Card",
+        "description": "Tous les 15 tirs, Isaac tire une larme Ipecac qui a aussi l'effet mirroir.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Torn_Card_icon.webp"    
     },
     {
         "id": "158",
-        "name": "",
-        "description": "",
+        "name": "Torn Pocket",
+        "description": "Lorsqu'il subit des dégâts, Isaac laisse tomber 2 pickups aléatoires parmi ceux qu'il tient actuellement.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Torn_Pocket_icon.webp"    
     },
     {
         "id": "159",
-        "name": "",
-        "description": "",
+        "name": "Gilded Key",
+        "description": "Remplace tous les nouveaux coffres, à l'exception des méga coffres et des anciens coffres, par des coffres verrouillés. Octroie une clé lors de la collecte.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Gilded_Key_icon.webp"    
     },
     {
         "id": "160",
-        "name": "",
-        "description": "",
+        "name": "Lucky Sack",
+        "description": "Fait apparaître un sac à provisions lors du passage à l'étage suivant.",
         "unlock": "",
-        "image": "./"    
+        "image": "./img/trinkets/Trinket_Lucky_Sack_icon.webp"    
     },
     {
         "id": "161",

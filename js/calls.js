@@ -10,6 +10,7 @@ const urlBoss = './json/boss_room.json';
 const urlLibrary = './json/library_room.json';
 const urlRedChest = './json/red_chest.json';
 const urlGoldChest = './json/golden_chest.json';
+const urlPickups = './json/pickups.json';
 
 
 
@@ -761,6 +762,74 @@ const golden_chestButton = document.getElementById('golden_chest');
             const descDiv = document.createElement('div');
             descDiv.className = 'description'; 
             descDiv.innerHTML = `<h2>${item.name}</h2><p>Types : ${item.type}</p><p>${item.description}</p><p>Débloquer : ${item.unlock}</p>`;
+            descDiv.style.display = 'none';
+
+            
+            itemsDiv.appendChild(img);
+            descriptionDiv.appendChild(descDiv);
+
+           
+            img.addEventListener('mouseover', () => {
+                descDiv.style.display = 'block'; 
+            });
+
+            img.addEventListener('mouseout', () => {
+                descDiv.style.display = 'none';
+            });
+
+            img.addEventListener('click', () => {
+                const modal = document.getElementById('modal');
+                modal.style.display = 'block';
+                const modalContent = document.getElementById('content');
+                modalContent.innerHTML = `
+                <div id="modal-title">
+                    <img id="modal-img" src="${item.image}" alt="${item.name}"> 
+                    <h2>${item.name}</h2>
+                </div> 
+                <div id="modal-text">
+                    <p>Types : ${item.type}</p>
+                    <p>${item.description}</p><p>Débloquer : ${item.unlock}</p>
+                </div>`;
+            });
+        });
+
+
+    })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+        });
+});
+
+///////////////////////////////////////////
+
+const pickupsButton = document.getElementById('pickups');
+        pickupsButton.addEventListener('click', () => {
+        fetch(urlPickups)
+        .then(response => {
+            if (!response.ok) {
+            throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => { 
+            // Tri ascendant par rapport à l'id
+            data.sort((a, b) => a.id - b.id);
+            const itemsDiv = document.getElementById('items');
+            const descriptionDiv = document.getElementById('description');
+            itemsDiv.innerHTML = '';
+            descriptionDiv.innerHTML = '';
+
+
+        data.forEach(item => {
+            
+            const img = document.createElement('img');
+            img.src = item.image;
+            img.alt = item.name;
+            img.classList.add('itemImg');
+
+            const descDiv = document.createElement('div');
+            descDiv.className = 'description'; 
+            descDiv.innerHTML = `<h2>${item.name}</h2><p>${item.description}</p><p>Débloquer : ${item.unlock}</p>`;
             descDiv.style.display = 'none';
 
             

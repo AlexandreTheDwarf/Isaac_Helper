@@ -146,81 +146,145 @@
         "id": "5401",
         "name": "Bomb",
         "description": "Crée une explosion quand utiliser qui peut casser les rochers, découvrir les salles secrètes et infliger des dégats aux ennemis et a isaac",
-        "unlock": "",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5402",
+        "name": "Double Bomb",
+        "description": "Donne deux bombes",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Double_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5403",
+        "name": "Troll Bomb",
+        "description": "Ne peut être ramassé. Les trolls bombes sont déjà enflammés et exploseront au bout de quelques secondes.",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Troll_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5404",
+        "name": "Golden Bomb",
+        "description": "Ne s'ajoute pas au nombre de bombes du joueur, mais lorsqu'elle est ramassée, elle permet au joueur de placer des bombes sans que cela ne soit soustrait de son total pour la durée de l'étage en cours, même si le nombre de bombes actuel est de 0.",
+        "unlock": "Réussir le challenge 'Blue Bomber' (#23)",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Golden_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5405",
+        "name": "Mega Troll Bomb",
+        "description": "Comme les bombes Troll, mais elles sont plus grosses et poursuivent Isaac s'il se trouve à proximité.",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Mega_Troll_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5406",
+        "name": "Golden Troll Bomb",
+        "description": "Comme les bombes trolls, mais elles peuvent exploser à l'infini, imitant ainsi l'effet d'une bombe dorée.",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Golden_Troll_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5407",
+        "name": "Giga Bomb",
+        "description": "Lancés par les Bombgaggers, les Ultra War, ils apparaissent naturellement dans certaines salles d'Ashpit ainsi que dans une salle super secrète. Elles explosent et détruisent les tuiles en forme de diamant. Les giga-bombes infligent 300 points de dégâts aux ennemis.",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Giga_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5410",
+        "name": "Throwable Bomb",
+        "description": "Elle ne peut être ramassée et lancée qu'une seule fois, et explose quelques secondes après avoir été ramassée. N'est généré que par l'ennemi Bomb Grimace.",
+        "unlock": "De base",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Throwable_Bomb.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5420",
+        "name": "Poop Nugget",
+        "description": "Bombe exclusive a Tainted ???. Il les obtient en infligeant des dégâts aux ennemis.",
+        "unlock": "De base (Consommables exclusifs  à Tainted ???)",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Poop_Nugget.webp"  
     },
     {
-        "id": "540",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "5421",
+        "name": "Big Poop Nugget",
+        "description": "Toutes les bombes qui apparaissent normalement sont remplacées par cette bombe lorsque vous jouez en tant que Tainted ??? cela n'affecte pas les bombes Trolls et leurs variantes.",
+        "unlock": "De base (Consommables exclusifs  à Tainted ???)",
         "type": "bombes",
-        "image": "./"  
+        "image": "./img/pickups/Big_Poop_Nugget.webp"  
+    },
+    {
+        "id": "5301",
+        "name": "Key",
+        "description": "Permet d'ouvrir les serrures des coffres, portes, bloc à serrure, ...",
+        "unlock": "De base",
+        "type": "clés",
+        "image": "./img/pickups/Key.webp"  
+    },
+    {
+        "id": "5302",
+        "name": "Golden Key",
+        "description": "Ne s'ajoute pas au nombre de clés du joueur, mais lorsqu'il est ramassé, il permet au joueur d'utiliser des clés sur tout ce qui en a besoin sans que cela ne soit soustrait de son total pour la durée de l'étage en cours, même si le nombre actuel de clés est de 0.",
+        "unlock": "De base",
+        "type": "clés",
+        "image": "./img/pickups/Golden_Key.webp"  
+    },
+    {
+        "id": "5303",
+        "name": "Key Ring",
+        "description": "Donne deux clés",
+        "unlock": "De base",
+        "type": "clés",
+        "image": "./img/pickups/Key_Ring.webp"  
+    },
+    {
+        "id": "5304",
+        "name": "Charged Key",
+        "description": "Donne une clé et agit comme une petite batterie lorsqu'elle est ramassée.",
+        "unlock": "Réussir le challenge 'Pokey Mans' (#33)",
+        "type": "clés",
+        "image": "./img/pickups/Charged_Key.webp"  
+    },
+    {
+        "id": "5901",
+        "name": "Lil' Battery",
+        "description": "Recharge 6 charges de l'objet activable d'isaac",
+        "unlock": "De base",
+        "type": "Batteries",
+        "image": "./img/pickups/Lil_Battery.webp"  
+    },
+    {
+        "id": "5902",
+        "name": "Micro Battery",
+        "description": "Recharge 2 charges de l'objet activable d'isaac",
+        "unlock": "De base",
+        "type": "Batteries",
+        "image": "./img/pickups/Micro_Battery.webp"  
+    },
+    {
+        "id": "5903",
+        "name": "Mega Battery",
+        "description": "Recharge complètement 2 fois les charges de son objet activable, permet donc de l'utiliser 2 fois",
+        "unlock": "De base",
+        "type": "Batteries",
+        "image": "./img/pickups/Mega_Battery.webp"  
+    },
+    {
+        "id": "5904",
+        "name": "Golden Battery",
+        "description": "Recharge 6 charges de l'objet activable d'isaac et elle inflige un cœur complet de dégâts lorsqu'elle est ramassée. Une autre batterie dorée apparaît dans une pièce aléatoire, mais elle n'apparaît pas sur la carte tant qu'elle n'est pas découverte.",
+        "unlock": "Battre Mega satan en tant que Tainted Forgotten",
+        "type": "Batteries",
+        "image": "./img/pickups/Golden_Battery.webp"  
     },
     {
         "id": "",

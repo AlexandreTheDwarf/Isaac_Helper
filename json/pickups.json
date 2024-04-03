@@ -4,6 +4,7 @@
         "name": "Red Heart",
         "description": "Guérit un cœur rouge complet",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Red_Heart.webp"  
     },
     {
@@ -11,6 +12,7 @@
         "name": "Half Red Heart",
         "description": "Guérit un demi-cœur rouge",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Half_Red_Heart.webp"  
     },
     {
@@ -25,6 +27,7 @@
         "name": "Eternal Heart",
         "description": "Lorsqu'ils sont conservés jusqu'à l'étage suivant, les Coeurs éternels accordent à Isaac un récipient de Coeur rouge. Ils donneront également un récipient de cœur rouge si deux sont collectés au même étage. ",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Eternal_Heart.webp"  
     },
     {
@@ -32,6 +35,7 @@
         "name": "Double Heart",
         "description": "Guérit deux cœurs rouges completements",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Double_Heart.webp"  
     },
     {
@@ -39,6 +43,7 @@
         "name": "Black Heart",
         "description": "Les cœurs noirs sont des cœurs noirs qui s'ajoutent à la fin de la barre de santé. Les cœurs noirs ne sont pas permanents ; une fois perdus, ils ne peuvent pas être reconstitués, bien qu'il soit possible d'en ramasser de nouveaux. Dans la plupart des cas, les cœurs noirs sont épuisés avant les cœurs rouges. Lorsqu'ils sont épuisés, ils invoquent l'effet Necronomicon, qui inflige 40 points de dégâts à tous les ennemis vulnérables de la pièce.",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Black_Heart.webp"  
     },
     {
@@ -46,6 +51,7 @@
         "name": "Gold Heart",
         "description": "Les cœurs d'or n'ajoutent pas de santé, mais forment un contour autour du dernier cœur de la barre de santé d'Isaac. Lorsque ce cœur est épuisé, le cœur d'or se brise et 3 à 8 pièces de monnaie tombent autour d'Isaac. Les cœurs d'or clignotent lorsqu'ils sont épuisés et transforment temporairement les ennemis en or, comme 'Midas Touch'.",
         "unlock": "Débloquez en réussissant le challenge #21 ('XXXXXXXXL')",
+        "type": "Coeur",
         "image": "./img/pickups/Gold_Heart.webp"  
     },
     {
@@ -53,6 +59,7 @@
         "name": "Half Soul Heart",
         "description": "Ils peuvent remplacer les coeurs d'âmes ordinaires. Comme les cœurs d'âme entiers, ils peuvent être utilisés pour recharger un demi-cœur noir.",
         "unlock": "Débloquez en vainquant le coeur de maman 5 fois",
+        "type": "Coeur",
         "image": "./img/pickups/Half_Soul_Heart.webp"  
     },
     {
@@ -60,6 +67,7 @@
         "name": "Blended Heart",
         "description": "Remplit un conteneur de cœur rouge plein, mais agit comme un cœur d'âme lorsqu'il n'y a pas de conteneur libre. S'il ne manque à Isaac qu'un demi-cœur rouge, il le remplira et lui donnera également un demi-cœur d'âme.",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Blended_Heart.webp"  
     },
     {
@@ -67,6 +75,7 @@
         "name": "Bone Heart",
         "description": "Il faut trois coups pour l'épuiser et il peut être rechargé avec des cœurs rouges et des cœurs pourris, mais il disparaît définitivement lorsqu'il est épuisé.",
         "unlock": "Débloquez en débloquant 'The Forgotten'",
+        "type": "Coeur",
         "image": "./img/pickups/Bone_Heart.webp"  
     },
     {
@@ -74,55 +83,151 @@
         "name": "Rotten Heart",
         "description": "Les cœurs pourris remplissent un conteneur de cœur entier, ou le cœur rouge le plus à droite si tous les conteneurs de cœur d'Isaac sont pleins, mais ne peuvent subir qu'un demi-cœur de dégâts chacun avant d'être épuisés (ainsi, par exemple, deux cœurs pourris seront épuisés s'ils subissent un cœur entier de dégâts). Chaque cœur pourri dans la barre de vie d'Isaac fait apparaître deux mouches bleues lorsqu'il nettoie une pièce.",
         "unlock": "Débloquez en rentrant dans la première fois dans 'The Corpse'",
+        "type": "Coeur",
         "image": "./img/pickups/Rotten_Heart.webp"  
     },
     {
         "id": "5201",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"  
+        "name": "Penny",
+        "description": "1 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Penny.webp"  
     },
     {
         "id": "5202",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"  
+        "name": "Nickel",
+        "description": "A la valeur de 5 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Nickel.webp"  
     },
     {
         "id": "5203",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"  
+        "name": "Dime",
+        "description": "A la valeur de 10 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Dime.webp"  
     },
     {
         "id": "5204",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"  
+        "name": "Double Penny",
+        "description": "A la valeur de 2 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Double_Penny.webp"  
     },
     {
         "id": "5205",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"  
+        "name": "Lucky Penny",
+        "description": "Augmente la chance de 1 lorsqu'on la ramasse.",
+        "unlock": "Faire un don de 2 pièces à la machine à dons de 'Greed'",
+        "type": "pièces",
+        "image": "./img/pickups/Lucky_Penny.webp"  
     },
     {
         "id": "5206",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "image": "./"  
+        "name": "Sticky Nickel",
+        "description": "Il se retournera lorsque Isaac essaiera de le ramasser. Ensuite, il restera coincé au sol, incapable d'être ramassé à moins qu'une explosion ne le fasse décoller du sol.",
+        "unlock": "Terminez le Boss Rush en tant que Keeper",
+        "type": "pièces",
+        "image": "./img/pickups/Nickel.webp"  
     },
     {
         "id": "5207",
+        "name": "Golden Penny",
+        "description": "Fait apparaître un autre penny d'or dans un endroit aléatoire de la même pièce après avoir été ramassé, mais il a 10 % de chances de disparaître à la place.",
+        "unlock": "Vaincre Mega Satan en tant que tainted Keeper",
+        "type": "pièces",
+        "image": "./img/pickups/Golden_Penny.webp"  
+    },
+    {
+        "id": "5401",
+        "name": "Bomb",
+        "description": "Crée une explosion quand utiliser qui peut casser les rochers, découvrir les salles secrètes et infliger des dégats aux ennemis et a isaac",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
         "name": "",
         "description": "",
         "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "540",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "bombes",
+        "image": "./"  
+    },
+    {
+        "id": "",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "",
         "image": "./"  
     }
 ]

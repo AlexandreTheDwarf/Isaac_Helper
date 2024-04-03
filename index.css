@@ -41,6 +41,12 @@ body{
     image-rendering: pixelated;
 }
 
+/* Rajoute une classe spécial pour les pickups pour dezoomer les images car trop grande par rapport au reste du site */
+.resize-image {
+    object-fit: contain;
+    transform: scale(0.70);
+}
+
 #items{
     width: 70%;
     float: left;

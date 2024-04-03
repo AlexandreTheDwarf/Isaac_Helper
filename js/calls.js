@@ -827,6 +827,12 @@ const pickupsButton = document.getElementById('pickups');
             img.alt = item.name;
             img.classList.add('itemImg');
 
+            // Vérifie si l'un des côtés de l'image est inférieur à 32px
+            // Pour permettre de rajouter une classe pour dezoomer les images car trop grande par rapport au reste du site
+            if (img.naturalWidth < 32 || img.naturalHeight < 32) {
+                img.classList.add('resize-image');
+            }
+            
             const descDiv = document.createElement('div');
             descDiv.className = 'description'; 
             descDiv.innerHTML = `<h2>${item.name}</h2><p>${item.description}</p><p>Débloquer : ${item.unlock}</p>`;

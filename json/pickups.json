@@ -20,6 +20,7 @@
         "name": "Soul Heart",
         "description": "Les cœurs d'âme sont des cœurs bleus qui s'ajoutent à la fin de la barre de santé. Les cœurs d'âme ne sont pas permanents ; une fois perdus, ils ne peuvent pas être reconstitués, mais il est possible d'en ramasser de nouveaux. Dans la plupart des cas, les cœurs d'âme sont épuisés avant les cœurs rouges.",
         "unlock": "De base",
+        "type": "Coeur",
         "image": "./img/pickups/Soul_Heart.webp"  
     },
     {

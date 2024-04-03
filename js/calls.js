@@ -826,12 +826,6 @@ const pickupsButton = document.getElementById('pickups');
             img.src = item.image;
             img.alt = item.name;
             img.classList.add('itemImg');
-
-            // Vérifie si l'un des côtés de l'image est inférieur à 32px
-            // Pour permettre de rajouter une classe pour dezoomer les images car trop grande par rapport au reste du site
-            if (img.naturalWidth < 32 || img.naturalHeight < 32) {
-                img.classList.add('resize-image');
-            }
             
             const descDiv = document.createElement('div');
             descDiv.className = 'description'; 
@@ -857,7 +851,7 @@ const pickupsButton = document.getElementById('pickups');
                 const modalContent = document.getElementById('content');
                 modalContent.innerHTML = `
                 <div id="modal-title">
-                    <img id="modal-img" src="${item.image}" alt="${item.name}"> 
+                    <img id="modal-img" class="resize-image" src="${item.image}" alt="${item.name}"> 
                     <h2>${item.name}</h2>
                 </div> 
                 <div id="modal-text">

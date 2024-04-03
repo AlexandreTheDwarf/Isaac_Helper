@@ -39,12 +39,7 @@ body{
     height: 65px;
     padding: 5px;
     image-rendering: pixelated;
-}
-
-/* Rajoute une classe spécial pour les pickups pour dezoomer les images car trop grande par rapport au reste du site */
-.resize-image {
     object-fit: contain;
-    transform: scale(0.70);
 }
 
 #items{
@@ -123,8 +118,33 @@ body{
     padding: 30px;
 
 }
+/* Media query pour les écrans entre 390px et 768px de largeur */
+@media (min-width: 390px) and (max-width: 768px) {
+    .buttons{
+        flex-direction: row;
+        flex-wrap: wrap;
+        max-width: 90vw;
+        justify-content: center;
+        align-items: center;
+    }
 
-@media (max-width: 768px) {
+    #items {
+        width: 100vw;
+        margin-top: 14rem;
+    }
+
+    #description {
+        display: none;
+    }
+}
+
+/* Media query pour les écrans de moins de 390px de largeur */
+@media (max-width: 389px) {
+    .roomBtn {
+        width: 65px;
+        height: 55px;
+    }
+
     .buttons{
         flex-direction: row;
         flex-wrap: wrap;

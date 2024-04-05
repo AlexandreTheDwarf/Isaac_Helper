@@ -288,6 +288,182 @@
         "image": "./img/pickups/Golden_Battery.webp"  
     },
     {
+        "id": "53001",
+        "name": "0 - The Fool",
+        "description": "Téléporte Isaac dans la salle de départ de l'étage où il se trouve.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Fool_icon.webp"  
+    },
+    {
+        "id": "53002",
+        "name": "I - The Magician",
+        "description": "Accorde des larmes autoguidées et une portée de +3 pour la pièce actuelle.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Magician_icon.webp"  
+    },
+    {
+        "id": "53003",
+        "name": "II - The High Priestess",
+        "description": "La jambe démembrée de maman est invoquée pour infliger 300 points de dégâts à tout ce qu'elle piétine. Elle piétine toujours l'ennemi qui a le plus de points de vie. Les marchands sont considérés comme des ennemis. Si elle est utilisée dans une pièce vide ou pendant le combat avec Maman, elle piétinera Isaac à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_High_Priestess_icon.webp"  
+    },
+    {
+        "id": "53004",
+        "name": "III - The Empress",
+        "description": "Déclenche l'effet de l'objet 'Whore of Babylon' (+1,5 point de dégâts, +0,3 point de vitesse) dans la pièce actuelle, quel que soit le nombre de points de vie d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Empress_icon.webp"  
+    },
+    {
+        "id": "53005",
+        "name": "IV - The Emperor",
+        "description": "Téléporte Isaac dans la salle des boss de l'étage.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Emperor_icon.webp"  
+    },
+    {
+        "id": "53006",
+        "name": "V - The Hierophant",
+        "description": "Dépose 2 cœurs d'âme complets sur le sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Hierophant_icon.webp"  
+    },
+    {
+        "id": "53007",
+        "name": "VI - The Lovers",
+        "description": "Dépose 2 cœurs rouges sur le sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Lovers_icon.webp"  
+    },
+    {
+        "id": "53008",
+        "name": "VII - The Chariot",
+        "description": "Confère l'invulnérabilité et +0,28 vitesse pendant 6 secondes, supprimant la capacité de tirer des larmes et la remplaçant par la capacité d'infliger des dégâts de contact aux ennemis.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Chariot_icon.webp"  
+    },
+    {
+        "id": "53009",
+        "name": "VIII - Justice",
+        "description": "Dépose un type aléatoire de cœur, de clé, de bombe et de pièce sur le sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Justice_icon.webp"  
+    },
+    {
+        "id": "53010",
+        "name": "IX - The Hermit",
+        "description": "Téléporte Isaac à la boutique.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Hermit_icon.webp"  
+    },
+    {
+        "id": "53011",
+        "name": "X - Wheel of Fortune",
+        "description": "Crée une machine à sous ou une machine à dire la bonne aventure près d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Wheel_of_Fortune_icon.webp"  
+    },
+    {
+        "id": "53012",
+        "name": "XI - Strength",
+        "description": "Accorde x1.5 de dégats pour une pièce. Le conteneur de cœur rouge ajouté n'est pas retiré si cela risque de tuer Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Strength_icon.webp"  
+    },
+    {
+        "id": "53013",
+        "name": "XII - The Hanged Man",
+        "description": "Enlève le corps d'Isaac, ce qui lui permet de voler pendant la durée de la pièce.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Hanged_Man_icon.webp"  
+    },
+    {
+        "id": "53014",
+        "name": "XIII - Death",
+        "description": "Inflige 40 points de dégâts à tous les ennemis dans la pièce",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Death_icon.webp"  
+    },
+    {
+        "id": "53015",
+        "name": "XIV - Temperance",
+        "description": "Crée une machine à don du sang près d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Temperance_icon.webp"  
+    },
+    {
+        "id": "53016",
+        "name": "XV - The Devil",
+        "description": "Accorde à Isaac une augmentation temporaire de +2 aux dégâts pour la pièce en cours.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Devil_icon.webp"  
+    },
+    {
+        "id": "53017",
+        "name": "XVI - The Tower",
+        "description": "Dépose 6 bombes trolls au hasard dans la pièce.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Tower_icon.webp"  
+    },
+    {
+        "id": "53018",
+        "name": "XVII - The Stars",
+        "description": "Teleporte Isaac dans la salle du trésor. Choisit aléatoirement une salle du trésor si la Malédiction du labyrinthe est active. S'il y a un Planétarium, il y téléporte Isaac à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Stars_icon.webp"  
+    },
+    {
+        "id": "53019",
+        "name": "XVIII - The Moon",
+        "description": "Téléporte Isaac dans la pièce secrète. Cette carte ouvre un mur au hasard une fois dans la pièce secrète, ce qui permet à Isaac de partir même s'il n'a pas de bombes disponibles. Choisit aléatoirement une pièce secrète s'il y en a plusieurs.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Moon_icon.webp"  
+    },
+    {
+        "id": "53020",
+        "name": "XIX - The Sun",
+        "description": "Rétablit la santé d'Isaac, inflige 100 points de dégâts à tous les ennemis présents dans la pièce et révèle la carte de l'étage en cours, à l'exception de la salle super secrète et de la salle ultra secrète. Supprime la malédiction des ténèbres pour l'étage actuel.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Sun_icon.webp"  
+    },
+    {
+        "id": "53021",
+        "name": "XX - Judgement",
+        "description": "Fait apparaître un mendiant ou, plus rarement, un mendiant diabolique, un clochard à piles, un mendiant pourri, un maître des clés ou un clochard à bombes près d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Judgement_icon.webp"  
+    },
+    {
+        "id": "53022",
+        "name": "XXI - The World",
+        "description": "Révèle l'ensemble de l'étage, à l'exception de la salle super secrète et de la salle ultra secrète.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_World_icon.webp"  
+    },
+    {
         "id": "",
         "name": "",
         "description": "",

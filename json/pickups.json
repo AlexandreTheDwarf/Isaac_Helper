@@ -640,188 +640,180 @@
         "image": "./img/pickups/Pickup_XXI_-_The_World_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53023",
+        "name": "2 of Clubs",
+        "description": "Double les bombes d'Isaac. S'il n'a pas de bombes, lui en donne 2 à la place.",
+        "unlock": "De base",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_2_of_Clubs_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53024",
+        "name": "2 of Diamonds",
+        "description": "Double l'argent d'Isaac. S'il n'a pas de pièces, lui en donne 2 à la place.",
+        "unlock": "De base",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_2_of_Diamonds_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53025",
+        "name": "2 of Spades",
+        "description": "Double les clés d'Isaac. S'il n'a pas de clés, lui en donne 2 à la place.",
+        "unlock": "De base",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_2_of_Spades_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53026",
+        "name": "2 of Hearts",
+        "description": "Double le nombre de cœurs rouges d'Isaac. N'ajoute pas de nouveaux conteneurs de Coeurs Rouges, mais remplit les conteneurs vides. Si Isaac n'a que des contenants de Coeur Rouge vides, il est soigné pour 1 Coeur Rouge. Double les charges de sang de Bethany.",
+        "unlock": "De base",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_2_of_Hearts_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53027",
+        "name": "Ace of Clubs",
+        "description": "Transforme tous les objets ramassables, les coffres et les ennemis qui ne sont pas des boss en bombes aléatoires, y compris les bombes trolls.",
+        "unlock": "Obtenir une série de 3 victoires",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Ace_of_Clubs_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53028",
+        "name": "Ace of Diamonds",
+        "description": "Transforme toutes les ramassables, tous les coffres et tous les ennemis qui ne sont pas des boss dans la pièce en pièces aléatoires.",
+        "unlock": "Vaincre l'agneau dans Dark Room en moins de 20 minutes",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Ace_of_Diamonds_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53029",
+        "name": "Ace of Spades",
+        "description": "Transforme toutes les ramassables, tous les coffres et tous les ennemis qui ne sont pas des boss dans la pièce en clés aléatoires.",
+        "unlock": "Vaincre l'agneau dans la Dark Room sans prendre de cœurs, de pièces ou de bombes pendant toute la durée du jeu.",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Ace_of_Spades_29_Icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53030",
+        "name": "Ace of Hearts",
+        "description": "Transforme tous les objets ramassables, les coffres et les ennemis qui ne sont pas des boss en cœurs aléatoires.",
+        "unlock": "Terminer un chapitre (étages I et II) après le 'Basement', du début à la fin, avec seulement la moitié d'un cœur au total (peut utiliser The Lost).",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Ace_of_Hearts_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53031",
+        "name": "Joker",
+        "description": "Téléporte Isaac dans la salle du Diable ou la salle de l'Ange.",
+        "unlock": "De base",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Joker_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53046",
+        "name": "Suicide King",
+        "description": "Tue Isaac et fait apparaître de nombreux pickups, objets et/ou coffres dans la même pièce.",
+        "unlock": "Réussir le challenge 'Suicide King' (#7)",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Suicide_King_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53079",
+        "name": "Queen of Hearts",
+        "description": "Dépose 1 à 20 cœurs rouges sur le sol.",
+        "unlock": "Vaincre Mega Satan en tant que tainted Magdalene",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Queen_of_Hearts_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53042",
+        "name": "Chaos Card",
+        "description": "Lance la carte pour tuer presque tout ce qui se trouve sur son chemin. Ouvre les portes comme si une bombe avait explosé.",
+        "unlock": "Réussir le challenge 'Demo Man' (#9)",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Chaos_Card_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53052",
+        "name": "Huge Growth",
+        "description": "Pour la pièce actuelle, rend Isaac plus grand, lui permet d'écraser les obstacles sur lesquels il marche, et lui accorde +7 de dégâts à plat et +3 de portée.",
+        "unlock": "Augmentation de la taille 5 fois en une seule fois grâce aux 'Magic Mushroom', aux pilules 'One makes you larger', au 'XI - Strength', etc.",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Huge_Growth_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53053",
+        "name": "Ancient Recall",
+        "description": "Génère 3 cartes aléatoires.",
+        "unlock": "Utiliser des cartes et des runes 20 fois",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Ancient_Recall_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53054",
+        "name": "Era Walk",
+        "description": "Dans la salle actuelle, les ennemis sont ralentis, la vitesse d'Isaac est augmentée de 0,50 et sa vitesse de tir est diminuée de 1,00.",
+        "unlock": "Ajoutez la 'Broken Watch' et la 'Stop Watch' à votre collection.",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Era_Walk_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53043",
+        "name": "Credit Card",
+        "description": "Rend tous les ramassables et les objets qui coûtent de l'argent ou de la santé dans la pièce gratuits.",
+        "unlock": "Réussir le challenge 'Cursed!' (#10)",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Credit_Card_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53044",
+        "name": "Rules Card",
+        "description": "Affiche un message énigmatique à l'écran, semblable à une machine à dire la bonne aventure. Ces messages fournissent (souvent) des indices sur les boss, les zones de bonus, etc.",
+        "unlock": "Réussir le challenge 'Glass Cannon' (#11)",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Rules_Card_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53048",
+        "name": "? Card",
+        "description": "Lorsqu'il est utilisé, il copie l'effet de l'objet activable actuellement détenue par Isaac.",
+        "unlock": "De base",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Q_Card_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53045",
+        "name": "A Card Against Humanity",
+        "description": "Couvre toute la pièce de caca. Le processus n'est pas instantané, et la pièce ne sera pas remplie si Isaac part avant la fin du remplissage.",
+        "unlock": "Réussir le challenge 'When Life Gives You Lemons' (#12)",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_A_Card_Against_Humanity_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53047",
+        "name": "Get out of Jail Free Card",
+        "description": "Lorsqu'elle est utilisée, elle ouvre toutes les portes de la pièce actuelle, exactement comme la 'Dad's Key' (Clé de papa).",
+        "unlock": "Réussir le challenge 'Speed!' (#22)",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Get_out_of_Jail_Free_Card_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53051",
+        "name": "Holy Card",
+        "description": "Octroie un effet unique de 'Holy Mantle'.",
+        "unlock": "Vaincre Délirium en tant que The Lost",
         "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Holy_Card_icon.webp"  
     },
     {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "id": "53080",
+        "name": "Wild Card",
+        "description": "Lorsqu'il est utilisé, il copie l'effet de la pilule, de la carte, de la rune, de la pierre d'âme ou de l'objet activable le plus récemment utilisé.",
+        "unlock": "Vaincre Mega Satan en tant que tainted Eden",
         "type": "Cartes",
-        "image": "./"  
-    },
-    {
-        "id": "5300",
-        "name": "",
-        "description": "",
-        "unlock": "",
-        "type": "Cartes",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Wild_Card_icon.webp"  
     },
     {
         "id": "5300",

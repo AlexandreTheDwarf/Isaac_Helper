@@ -616,12 +616,12 @@
         "image": "./img/pickups/Pickup_XVIII_-_The_Moon_icon.webp"  
     },
     {
-        "id": "53074",
-        "name": "XVIII - The Moon?",
-        "description": "Téléporte Isaac dans la salle ultra secrète. Le chemin de retour vers les salles normales sera constitué de salles rouges.",
+        "id": "53075",
+        "name": "XIX - The Sun?",
+        "description": "Gagne l'Esprit de la nuit et +1,5 points de dégâts pour l'étage en cours. Transforme les cœurs rouges d'Isaac en cœurs d'os, mais ils reviennent à la fin de l'effet. Provoque également une malédiction des ténèbres qui ne peut pas être dissipée.",
         "unlock": "Vaincre Ultra Greedier en tant que Tainted Jacob",
         "type": "Cartes",
-        "image": "./img/pickups/Pickup_XVIII_-_The_Moon_icon.webp"  
+        "image": "./img/pickups/Pickup_XIX_-_The_Sun_icon.webp"  
     },
     {
         "id": "53076",
@@ -816,11 +816,251 @@
         "image": "./img/pickups/Pickup_Wild_Card_icon.webp"  
     },
     {
-        "id": "5300",
+        "id": "53032",
+        "name": "Rune of Hagalaz",
+        "description": "Détruit tous les objets cassables de la pièce. N'affecte pas les blocs de clés.",
+        "unlock": "Réussir le challenge 'Pitch Black' (#1)",
+        "type": "Runes",
+        "image": "./img/pickups/Hagalaz_Icon.webp"  
+    },
+    {
+        "id": "53033",
+        "name": "Rune of Jera",
+        "description": "Clone toutes les pioches et tous les coffres de la pièce (y compris les pioches de la boutique; les clones peuvent alors être ramassés gratuitement). ",
+        "unlock": "Réussir le challenge 'High Brow' (#2)",
+        "type": "Runes",
+        "image": "./img/pickups/Jera_Icon.webp"  
+    },
+    {
+        "id": "53034",
+        "name": "Rune of Ehwaz",
+        "description": "Crée une trappe menant à l'étage suivant. Crée à coup sûr une échelle de corde si elle est utilisée sur des dalles contenant certains motifs. Ne crée pas de trappe si elle est utilisée à la fin d'un défi.",
+        "unlock": "Réussir le challenge 'Head Trauma' (#3)",
+        "type": "Runes",
+        "image": "./img/pickups/Ehwaz_Icon.webp"  
+    },
+    {
+        "id": "53035",
+        "name": "Rune of Dagaz",
+        "description": "Supprime toutes les malédictions de l'étage actuel et accorde un cœur d'âme. (Cela ne supprime pas la Malédiction du labyrinthe).",
+        "unlock": "Réussir le challenge 'Darkness Falls' (#4)",
+        "type": "Runes",
+        "image": "./img/pickups/Dagaz_Icon.webp"  
+    },
+    {
+        "id": "53036",
+        "name": "Rune of Ansuz",
+        "description": "Révèle toute la carte, y compris la salle secrète et la salle super secrète. (Cela ne supprime pas la Malédiction des perdus.) Ne révèle pas la Salle ultra secrète.",
+        "unlock": "Réussir le challenge 'The Tank' (#5)",
+        "type": "Runes",
+        "image": "./img/pickups/Ansuz_Icon.webp"  
+    },
+    {
+        "id": "53037",
+        "name": "Rune of Perthro",
+        "description": "Reroll tous les objets sur piédestal de la pièce (même effet que le D6).",
+        "unlock": "Réussir le challenge 'Solar System' (#6)",
+        "type": "Runes",
+        "image": "./img/pickups/Perthro_Icon.webp"  
+    },
+    {
+        "id": "53038",
+        "name": "Rune of Berkano",
+        "description": "Invoque 3 mouches bleues et 3 araignées bleues amies.",
+        "unlock": "Réussir le challenge 'Purist' (#20)",
+        "type": "Runes",
+        "image": "./img/pickups/Berkano_Icon.webp"  
+    },
+    {
+        "id": "53039",
+        "name": "Rune of Algiz",
+        "description": "Octroie un bouclier qui dure 20 secondes.",
+        "unlock": "Réussir le challenge 'Cat Got Your Tongue' (#8)",
+        "type": "Runes",
+        "image": "./img/pickups/Algiz_Icon.webp"  
+    },
+    {
+        "id": "53040",
+        "name": "Blank Rune",
+        "description": "Accorde un effet de rune aléatoire.",
+        "unlock": "Réussir le challenge 'The Guardiaan' (#30)",
+        "type": "Runes",
+        "image": "./img/pickups/Pickup_Blank_Rune_icon.webp"  
+    },
+    {
+        "id": "53041",
+        "name": "Black Rune",
+        "description": "Inflige 40 points de dégâts à tous les ennemis de la pièce. Consomme tous les objets ramassés dans la pièce et les transforme en mouches et araignées bleues. Consomme tous les objets de piédestal de la pièce et les transforme en améliorations de statues aléatoires. Aucun effet sur les objets de la boutique ou de la salle du diable. ",
+        "unlock": "Vaincre Ultra Greedier en tant que Apollyon",
+        "type": "Runes",
+        "image": "./img/pickups/Pickup_Black_Rune_icon.webp"  
+    },
+    {
+        "id": "53055",
+        "name": "Rune Shard",
+        "description": "Active un effet rune faible et aléatoire : Algiz accorde un bouclier de 3 secondes, Ansuz révèle la carte jusqu'à 3 pièces plus loin, Berkano donne 1 mouche et 1 araignée bleues, Dagaz donne la moitié d'une Âme de cœur, Ehwaz crée une trappe, Hagalaz détruit quelques rochers, Jera duplique une pickups, et Perthro relance un objet. ",
+        "unlock": "De base",
+        "type": "Runes",
+        "image": "./img/pickups/Pickup_Rune_Shard_icon.webp"  
+    },
+    {
+        "id": "53049",
+        "name": "Dice Shard",
+        "description": "Lors de son utilisation, il invoque les effets du D6 et du D20 en même temps, relançant tous les piédestaux et les ramassables dans la pièce.",
+        "unlock": "De base",
+        "type": "Dés",
+        "image": "./img/pickups/Pickup_Dice_Shard_icon.webp"  
+    },
+    {
+        "id": "53050",
+        "name": "Emergency Contact",
+        "description": "Lorsqu'il est utilisé, deux mains de maman descendent et saisissent deux ennemis au hasard, leur infligeant des dégâts et, s'ils ont 40 PV ou plus, les clouant temporairement au sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Emergency_Contact_icon.webp"  
+    },
+    {
+        "id": "53078",
+        "name": "Cracked Key",
+        "description": "Crée une pièce adjacente à un mur viable, comme Red Key.",
+        "unlock": "Ouvrir le coffre de maman dans l'étage de 'la maison'",
+        "type": "clés",
+        "image": "./img/pickups/Pickup_Cracked_Key_icon.webp"  
+    },
+    {
+        "id": "53081",
         "name": "",
         "description": "",
         "unlock": "",
-        "type": "Cartes",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53082",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53083",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53084",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53085",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53086",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53087",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53088",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53089",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53090",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53091",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53092",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53093",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53094",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53095",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53096",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
+        "image": "./"  
+    },
+    {
+        "id": "53097",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Ames",
         "image": "./"  
     }
 ]

@@ -464,11 +464,371 @@
         "image": "./img/pickups/The_World_icon.webp"  
     },
     {
-        "id": "",
+        "id": "53056",
+        "name": "0 - The Fool?",
+        "description": "Laisse tomber tous les cœurs et les objets à ramasser qu 'Isaac possède actuellement sur le sol, laissant Isaac avec un demi-cœur. Les objets ramassés peuvent être transformés en des objets tels que 'a quarter' et 'Boom !'.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Lost",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_0_-_The_Fool_icon.webp"  
+    },
+    {
+        "id": "53057",
+        "name": "I - The Magician?",
+        "description": "Confère une aura bleue repoussante pendant une minute, comme 'The Soul', mais plus forte et avec une zone d'effet plus large.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Judas",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_I_-_The_Magician_icon.webp"  
+    },
+    {
+        "id": "53058",
+        "name": "II - The High Priestess?",
+        "description": "La jambe de maman se met à piétiner de façon répétée (en ciblant Isaac, pas les ennemis) pendant une minute.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Lilith",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_II_-_The_High_Priestess_icon.webp"  
+    },
+    {
+        "id": "53059",
+        "name": "III - The Empress?",
+        "description": "Octroie 2 conteneurs de cœur rouge temporaires, +1,5 vitesse de tir et -0,1 vitesse pendant une minute, ainsi que la coiffure de Magdalene. L'effet n'est pas cumulable avec lui-même. Les personnages qui ne peuvent pas avoir de conteneurs de cœur rouge obtiendront des cœurs d'âme / cœurs noirs / cœurs d'os en conséquence. À la fin de l'effet, si le retrait des conteneurs de coeurs ou coeur bonus risquerait de tuer Isaac, il n'en reste qu'un à la place.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Eve",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_III_-_The_Empress_icon.webp"  
+    },
+    {
+        "id": "53060",
+        "name": "IV - The Emperor?",
+        "description": "Téléporte Isaac dans une salle de boss supplémentaire du pool de boss, deux étages plus bas que l'étage actuel (mais jamais un boss final). Le boss laissera une récompense, mais la pièce n'a pas de trappe, donc Isaac ne peut pas accéder à l'étage suivant. La pièce a une porte de sortie, qui ramène Isaac à l'endroit où il l'a utilisée.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted ???",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_IV_-_The_Emperor_icon.webp"  
+    },
+    {
+        "id": "53061",
+        "name": "V - The Hierophant?",
+        "description": "Dépose 2 Coeurs d'os sur le sol.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Bethany",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_V_-_The_Hierophant_icon.webp"  
+    },
+    {
+        "id": "53062",
+        "name": "VI - The Lovers?",
+        "description": "Crée un objet aléatoire à partir de la réserve d'objets de la pièce actuelle. Transforme un conteneur de cœur rouge ou deux cœurs d'âme en cœur brisé.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Magdalene",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_VI_-_The_Lovers_icon.webp"  
+    },
+    {
+        "id": "53063",
+        "name": "VII - The Chariot?",
+        "description": "Isaac devient une statue invincible avec une cadence de tir de 4x pendant 10 secondes. La statue peut être légèrement déplacée en bougeant et est affectée par le recul.",
+        "unlock": "Réussir le challenge 'Hot Potato' (#42)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_VII_-_The_Chariot_icon.webp"  
+    },
+    {
+        "id": "53064",
+        "name": "VIII - Justice?",
+        "description": "Crée 2 à 4 coffres en or près d'Isaac.",
+        "unlock": "Réussir le challenge 'Cantripped' (#43)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_VIII_-_Justice_icon.webp"  
+    },
+    {
+        "id": "53065",
+        "name": "IX - The Hermit?",
+        "description": "Vend les objets et les objets à ramasser dans la pièce. Les objets sont vendus pour 15 cents, les objets à ramasser pour le prix habituel de la boutique, ce qui génère une quantité équivalente de pièces de monnaie. S'il n'y a rien à vendre, il laisse tomber un penny.",
+        "unlock": "Réussir le challenge 'Red Redemption' (#44)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_IX_-_The_Hermit_icon.webp"  
+    },
+    {
+        "id": "53066",
+        "name": "X - Wheel of Fortune?",
+        "description": "Invoque un effet aléatoire de la salle des dés.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Cain",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_X_-_Wheel_of_Fortune_icon.webp"  
+    },
+    {
+        "id": "53067",
+        "name": "XI - Strength?",
+        "description": "Tous les ennemis présents dans la pièce sont affaiblis, deviennent lents et subissent des dégâts doublés. L'effet dure jusqu'à une minute ou jusqu'à ce que la pièce soit quittée.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Samson",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XI_-_Strength_icon.webp"  
+    },
+    {
+        "id": "53068",
+        "name": "XII - The Hanged Man?",
+        "description": "Isaac se transforme visuellement en 'Keeper' pendant 30 secondes, avec un triple tir, sans bonus de dégâts, et une vitesse de-0,1. Les ennemis tués lâchent des pièces aléatoires.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Keeper",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XII_-_The_Hanged_Man_icon.webp"  
+    },
+    {
+        "id": "53069",
+        "name": "XIII - Death?",
+        "description": "Fait le meme effet que 'Book Of The Dead'",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Forgotten",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XIII_-_Death_icon.webp"  
+    },
+    {
+        "id": "53070",
+        "name": "XIV - Temperance?",
+        "description": "Force Isaac à manger 5 pilules aléatoires en succession rapide.",
+        "unlock": "Réussir le challenge 'Delete This'(#45)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XIV_-_Temperance_icon.webp"  
+    },
+    {
+        "id": "53071",
+        "name": "XV - The Devil?",
+        "description": "Invoque La Bible (qui peut tuer Maman et permet à Isaac de voler) et fait apparaître un familier Séraphin pendant 30 secondes.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Azazel",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XV_-_The_Devil_icon.webp"  
+    },
+    {
+        "id": "53072",
+        "name": "XVI - The Tower?",
+        "description": "Crée 7 groupes de rochers aléatoires et d'autres obstacles. Les groupes créés contiennent souvent des rochers teintés, et il est possible d'en trouver plusieurs dans la même pièce. Les chemins entre les sorties ne peuvent pas être bloqués.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Apollyon",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVI_-_The_Tower_icon.webp"  
+    },
+    {
+        "id": "53073",
+        "name": "XVII - The Stars?",
+        "description": "Retire le plus vieil objet passif d'Isaac (en ignorant les objets de départ) et crée 2 objets aléatoires à partir de la réserve d'objets de la pièce actuelle. Ne fait rien si Isaac n'a pas d'objets.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Isaac",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVII_-_The_Stars_icon.webp"  
+    },
+    {
+        "id": "53074",
+        "name": "XVIII - The Moon?",
+        "description": "Téléporte Isaac dans la salle ultra secrète. Le chemin de retour vers les salles normales sera constitué de salles rouges.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Jacob",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVIII_-_The_Moon_icon.webp"  
+    },
+    {
+        "id": "53074",
+        "name": "XVIII - The Moon?",
+        "description": "Téléporte Isaac dans la salle ultra secrète. Le chemin de retour vers les salles normales sera constitué de salles rouges.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Jacob",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVIII_-_The_Moon_icon.webp"  
+    },
+    {
+        "id": "53076",
+        "name": "XX - Judgement?",
+        "description": "Création d'une machine de reroll près d'Isaac",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Lazarus",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XX_-_Judgement_icon.webp"  
+    },
+    {
+        "id": "53077",
+        "name": "XXI - The World?",
+        "description": "Crée une echelle de corde.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Eden",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XXI_-_The_World_icon.webp"  
+    },
+    {
+        "id": "5300",
         "name": "",
         "description": "",
         "unlock": "",
-        "type": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
+        "image": "./"  
+    },
+    {
+        "id": "5300",
+        "name": "",
+        "description": "",
+        "unlock": "",
+        "type": "Cartes",
         "image": "./"  
     }
 ]

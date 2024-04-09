@@ -929,138 +929,138 @@
     },
     {
         "id": "53081",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Isaac",
+        "description": "Il fait reroll les objets de la pièce comme le D6, mais ils reprennent leur forme initiale au bout d'une seconde, en se répétant. Si plusieurs utilisations sont empilées, un objet supplémentaire par utilisation sera recyclé.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Isaac",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Isaac_icon.webp"  
     },
     {
         "id": "53082",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Magdalene",
+        "description": "Entoure Isaac d'une aura rouge bouillonnante pour la pièce en cours. Tous les ennemis tués lâchent des demi-cœurs rouges qui disparaissent au bout de 2 secondes.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Magdalene",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Magdalene_icon.webp"  
     },
     {
         "id": "53083",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Cain",
+        "description": "Ouvre toutes les portes de la pièce. De plus, elle crée une pièce rouge comme la clé rouge sur tous les murs valides. Cela détruit également le miroir situé dans Downpour / Dross II.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Cain",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Cain_icon.webp"  
     },
     {
         "id": "53084",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Judas",
+        "description": "Arrête le temps pendant 3 secondes et invoque la 'Dark Arts', transformant Isaac en un fantôme qui peut traverser les ennemis pour les paralyser, puis les attaquer pour augmenter rapidement les dégâts enchaînés et les bonus de dégâts.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Judas",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Judas_icon.webp"  
     },
     {
         "id": "53085",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of ???",
+        "description": "Provoque 8 pets empoisonnés qui laissent une trace brune persistante, puis pose une traînée de 7 Butt Bombs en succession rapide. Le fait de se tenir sur la trace donne +1,5 cadence de tir et +1 dégât.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted ???",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_blue_icon.webp"  
     },
     {
         "id": "53086",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Eve",
+        "description": "14 familiers 'Dead Bird' s'envolent et attaquent les ennemis. Ils partent lorsque toutes les victimes sont mortes ou qu'Isaac quitte la pièce.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Eve",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Eve_icon.webp"  
     },
     {
         "id": "53087",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Samson",
+        "description": "Isaac devient berserk (similaire à l'utilisation de 'Berserk !') pendant 10 secondes, gagnant +0,4 vitesse, quelques larmes et +3 dégâts plats avec son attaque de mêlée.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Samson",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Samson_icon.webp"  
     },
     {
         "id": "53088",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Azazel",
+        "description": "Tire un énorme Brimstone (comme 'Mega Blast') pendant 7.5 secondes",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Azazel",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Azazel_icon.webp"  
     },
     {
         "id": "53089",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Lazarus",
+        "description": "Isaac meurt et est immédiatement ranimé par un demi-cœur dans la même pièce, avec un certain temps d'invincibilité. La pierre d'âme est automatiquement utilisée en cas de dégâts mortels. A la priorité la plus élevée de tous les objets de réanimation.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Lazarus",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Lazarus_icon.webp"  
     },
     {
         "id": "53090",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Eden",
+        "description": "Utilise le 'D6' et le 'D20'. Les objets relancés utilisent des pools aléatoires, comme si le 'Chaos' était actif.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Eden",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Eden_icon.webp"  
     },
     {
         "id": "53091",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of the Lost",
+        "description": "Isaac meurt et se transforme en fantôme (similaire à The Lost) pour la pièce en cours, avec tous les avantages et faiblesses de The Lost. Il redevient normal lorsqu'il quitte la pièce. Permet de prendre gratuitement 1 objet de la salle du Diable, après quoi les autres objets disparaissent. Permet également de franchir gratuitement la porte du Mausolée / Géhenne. L'effet Holy Mantle peut être cumulé en cas d'utilisation multiple.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Lost",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_the_Lost_icon.webp"  
     },
     {
         "id": "53092",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Lilith",
+        "description": "Ajoute un familier permanent du pool de familiers, à l'exception des points de 'Stitches'. Peut donner des familiers que le joueur possède déjà. Les familiers uniques ne peuvent être reçus qu'une seule fois.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Lilith",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Lilith_icon.webp"  
     },
     {
         "id": "53093",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of the Keeper",
+        "description": "Dépose 1 à 25 pièces au hasard sur le sol.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Keeper",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_the_Keeper_icon.webp"  
     },
     {
         "id": "53094",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Apollyon",
+        "description": "Génère 15 criquets aléatoires.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Apollyon",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Apollyon_icon.webp"  
     },
     {
         "id": "53095",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of the Forgotten",
+        "description": "Fait apparaître 'The Forgotten' en tant que personnage secondaire temporaire, contrôlé en même temps qu'Isaac. Il meurt si ses 3 cœurs d'os sont épuisés, sans autre conséquence, et disparaît lorsque Isaac quitte la pièce. La lancer d'os inflige de gros dégâts et reflète les larmes.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Forgotten",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_the_Forgotten_icon.webp"  
     },
     {
         "id": "53096",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Bethany",
+        "description": "Produit 6 wisps du 'Book of Virtues' avec des propriétés aléatoires.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Bethany",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Bethany_icon.webp"  
     },
     {
         "id": "53097",
-        "name": "",
-        "description": "",
-        "unlock": "",
+        "name": "Soul of Jacob and Esau",
+        "description": "Crée Esau en tant que personnage secondaire temporaire, contrôlé en même temps qu'Isaac. Il meurt si sa santé est épuisée, sans autre conséquence, et disparaît lorsque Isaac quitte la pièce. Esau possède également un nombre d'objets égal à celui d'Isaac, chacun d'entre eux étant basé sur les pools d'objets d'Isaac.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Jacob",
         "type": "Ames",
-        "image": "./"  
+        "image": "./img/pickups/Pickup_Soul_of_Jacob_and_Esau_icon.webp"  
     }
 ]

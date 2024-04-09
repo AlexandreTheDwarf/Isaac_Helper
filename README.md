@@ -39,7 +39,7 @@ Il est également adapté aux personnes dyslexiques, avec une police de caractè
 - [x] Library Room
 - [x] Planetarium Room
 - [x] Trinkets
-- [ ] Pickups
+- [x] Pickups
 
 ### objets encodés avec comment les débloqués :
 
@@ -55,4 +55,4 @@ Il est également adapté aux personnes dyslexiques, avec une police de caractè
 - [x] Library Room
 - [x] Planetarium Room
 - [ ] Trinkets
-- [ ] Pickups
+- [x] Pickups
